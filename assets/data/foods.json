@@ -1,0 +1,9261 @@
+{
+ "version": 2,
+ "note": "Estimates per 100 g of food as eaten. All verified=false until checked against a real source.",
+ "foods": [
+  {
+   "name": "Roti",
+   "aliases": [
+    "chapati",
+    "phulka",
+    "fulka",
+    "tawa roti",
+    "chapatti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 297,
+   "protein100": 9,
+   "carbs100": 58,
+   "fat100": 3.7,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "large roti",
+     "grams": 60,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tandoori Roti",
+   "aliases": [
+    "tandoor roti",
+    "tandoori naan roti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 285,
+   "protein100": 9,
+   "carbs100": 56,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Naan",
+   "aliases": [
+    "plain naan"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 310,
+   "protein100": 9,
+   "carbs100": 50,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "naan",
+     "grams": 90,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Garlic Naan",
+   "aliases": [
+    "lehsan naan"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 320,
+   "protein100": 9,
+   "carbs100": 49,
+   "fat100": 9.5,
+   "units": [
+    {
+     "label": "naan",
+     "grams": 95,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Paratha",
+   "aliases": [
+    "plain paratha",
+    "parantha",
+    "parathay"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 326,
+   "protein100": 7,
+   "carbs100": 44,
+   "fat100": 13.5,
+   "units": [
+    {
+     "label": "paratha",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Paratha",
+   "aliases": [
+    "stuffed paratha",
+    "aloo wala paratha"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🥔",
+   "kcal100": 270,
+   "protein100": 5.5,
+   "carbs100": 38,
+   "fat100": 10.5,
+   "units": [
+    {
+     "label": "paratha",
+     "grams": 130,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Qeema Paratha",
+   "aliases": [
+    "keema paratha",
+    "mince paratha"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 290,
+   "protein100": 10,
+   "carbs100": 30,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "paratha",
+     "grams": 140,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lacha Paratha",
+   "aliases": [
+    "laccha paratha",
+    "layered paratha"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 350,
+   "protein100": 7,
+   "carbs100": 45,
+   "fat100": 16,
+   "units": [
+    {
+     "label": "paratha",
+     "grams": 90,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Puri",
+   "aliases": [
+    "poori",
+    "pori"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 380,
+   "protein100": 7,
+   "carbs100": 45,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "puri",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bhatura",
+   "aliases": [
+    "bhature",
+    "bhatoora"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 350,
+   "protein100": 8,
+   "carbs100": 48,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "bhatura",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kulcha",
+   "aliases": [
+    "plain kulcha"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 300,
+   "protein100": 8,
+   "carbs100": 52,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "kulcha",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sheermal",
+   "aliases": [
+    "sheer mal"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 340,
+   "protein100": 8,
+   "carbs100": 52,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "sheermal",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rumali Roti",
+   "aliases": [
+    "roomali roti",
+    "handkerchief roti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 270,
+   "protein100": 8,
+   "carbs100": 55,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Missi Roti",
+   "aliases": [
+    "besan roti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 290,
+   "protein100": 11,
+   "carbs100": 45,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Makki Ki Roti",
+   "aliases": [
+    "makki di roti",
+    "corn roti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🌽",
+   "kcal100": 215,
+   "protein100": 5,
+   "carbs100": 40,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bajra Roti",
+   "aliases": [
+    "millet roti",
+    "bajre ki roti"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 300,
+   "protein100": 9,
+   "carbs100": 55,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "roti",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "White Bread",
+   "aliases": [
+    "bread",
+    "bread slice",
+    "double roti",
+    "sliced bread"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🍞",
+   "kcal100": 265,
+   "protein100": 9,
+   "carbs100": 49,
+   "fat100": 3.2,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Brown Bread",
+   "aliases": [
+    "atta bread",
+    "whole wheat bread"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🍞",
+   "kcal100": 250,
+   "protein100": 10,
+   "carbs100": 43,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rusk",
+   "aliases": [
+    "toast biscuit",
+    "cake rusk",
+    "rask"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🍞",
+   "kcal100": 407,
+   "protein100": 10,
+   "carbs100": 72,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 12,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Burger Bun",
+   "aliases": [
+    "bun"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🍞",
+   "kcal100": 270,
+   "protein100": 9,
+   "carbs100": 50,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "bun",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pita Bread",
+   "aliases": [
+    "pitta",
+    "arabic bread"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🫓",
+   "kcal100": 275,
+   "protein100": 9,
+   "carbs100": 55,
+   "fat100": 1.2,
+   "units": [
+    {
+     "label": "pita",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tortilla Wrap",
+   "aliases": [
+    "wrap bread",
+    "tortilla"
+   ],
+   "category": "Roti & Bread",
+   "emoji": "🌯",
+   "kcal100": 300,
+   "protein100": 8,
+   "carbs100": 50,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "wrap",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Plain Rice",
+   "aliases": [
+    "boiled rice",
+    "chawal",
+    "sada chawal",
+    "white rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 130,
+   "protein100": 2.7,
+   "carbs100": 28,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": false
+    },
+    {
+     "label": "cup",
+     "grams": 160,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Biryani",
+   "aliases": [
+    "chicken biryani",
+    "murgh biryani"
+   ],
+   "category": "Rice",
+   "emoji": "🍛",
+   "kcal100": 180,
+   "protein100": 7,
+   "carbs100": 22,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef Biryani",
+   "aliases": [
+    "gosht biryani",
+    "bong biryani"
+   ],
+   "category": "Rice",
+   "emoji": "🍛",
+   "kcal100": 190,
+   "protein100": 8.5,
+   "carbs100": 21,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sindhi Biryani",
+   "aliases": [
+    "spicy biryani"
+   ],
+   "category": "Rice",
+   "emoji": "🍛",
+   "kcal100": 195,
+   "protein100": 7.5,
+   "carbs100": 22,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Vegetable Biryani",
+   "aliases": [
+    "veg biryani",
+    "sabzi biryani"
+   ],
+   "category": "Rice",
+   "emoji": "🍛",
+   "kcal100": 155,
+   "protein100": 3.5,
+   "carbs100": 25,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pulao",
+   "aliases": [
+    "chicken pulao",
+    "yakhni pulao",
+    "pulav"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 165,
+   "protein100": 6,
+   "carbs100": 23,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 280,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 170,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kabuli Pulao",
+   "aliases": [
+    "afghani pulao",
+    "kabuli palaw"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 190,
+   "protein100": 6.5,
+   "carbs100": 26,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Matar Pulao",
+   "aliases": [
+    "peas pulao"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 150,
+   "protein100": 3.5,
+   "carbs100": 26,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 280,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chana Pulao",
+   "aliases": [
+    "chickpea pulao"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 175,
+   "protein100": 5,
+   "carbs100": 28,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tehri",
+   "aliases": [
+    "tahari",
+    "vegetable rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 165,
+   "protein100": 3.5,
+   "carbs100": 27,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Zarda",
+   "aliases": [
+    "sweet rice",
+    "meethe chawal",
+    "zarda rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 210,
+   "protein100": 2.5,
+   "carbs100": 40,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Chawal",
+   "aliases": [
+    "dal chawal",
+    "dal rice",
+    "daal rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 140,
+   "protein100": 5,
+   "carbs100": 24,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 350,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Khichdi",
+   "aliases": [
+    "khichri",
+    "kitchri",
+    "khichuri"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 130,
+   "protein100": 5,
+   "carbs100": 22,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Jeera Rice",
+   "aliases": [
+    "zeera rice",
+    "cumin rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 150,
+   "protein100": 3,
+   "carbs100": 28,
+   "fat100": 3,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Brown Rice",
+   "aliases": [
+    "boiled brown rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 123,
+   "protein100": 2.7,
+   "carbs100": 26,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 195,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg Fried Rice",
+   "aliases": [
+    "anda chawal",
+    "fried rice egg"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 170,
+   "protein100": 5.5,
+   "carbs100": 25,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Fried Rice",
+   "aliases": [
+    "chinese rice",
+    "chicken rice"
+   ],
+   "category": "Rice",
+   "emoji": "🍚",
+   "kcal100": 175,
+   "protein100": 7,
+   "carbs100": 24,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Nihari",
+   "aliases": [
+    "nehari",
+    "beef nihari"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍲",
+   "kcal100": 170,
+   "protein100": 12,
+   "carbs100": 3,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Haleem",
+   "aliases": [
+    "daleem",
+    "haleem"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍲",
+   "kcal100": 150,
+   "protein100": 9,
+   "carbs100": 14,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Karahi",
+   "aliases": [
+    "karahi chicken",
+    "chicken kadhai",
+    "karahi"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍗",
+   "kcal100": 175,
+   "protein100": 17,
+   "carbs100": 3,
+   "fat100": 10.5,
+   "units": [
+    {
+     "label": "karchi",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton Karahi",
+   "aliases": [
+    "gosht karahi",
+    "lamb karahi",
+    "mutton kadhai"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍖",
+   "kcal100": 230,
+   "protein100": 19,
+   "carbs100": 3,
+   "fat100": 16,
+   "units": [
+    {
+     "label": "karchi",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef Karahi",
+   "aliases": [
+    "beef kadhai"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍖",
+   "kcal100": 210,
+   "protein100": 18,
+   "carbs100": 3,
+   "fat100": 14.5,
+   "units": [
+    {
+     "label": "karchi",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken White Karahi",
+   "aliases": [
+    "white karahi",
+    "white handi"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍗",
+   "kcal100": 200,
+   "protein100": 16,
+   "carbs100": 4,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "karchi",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Handi",
+   "aliases": [
+    "handi",
+    "murgh handi"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍲",
+   "kcal100": 190,
+   "protein100": 15,
+   "carbs100": 4,
+   "fat100": 12.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Qorma",
+   "aliases": [
+    "chicken korma",
+    "korma",
+    "murgh korma"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 185,
+   "protein100": 14,
+   "carbs100": 5,
+   "fat100": 12.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton Qorma",
+   "aliases": [
+    "mutton korma",
+    "gosht korma",
+    "beef qorma"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 250,
+   "protein100": 17,
+   "carbs100": 4,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Gosht",
+   "aliases": [
+    "potato meat curry",
+    "aloo gosht salan"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 150,
+   "protein100": 9,
+   "carbs100": 8,
+   "fat100": 9,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Curry",
+   "aliases": [
+    "chicken salan",
+    "murgh salan",
+    "chicken masala"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 140,
+   "protein100": 12,
+   "carbs100": 4,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton Curry",
+   "aliases": [
+    "gosht salan",
+    "mutton salan",
+    "beef curry"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 200,
+   "protein100": 15,
+   "carbs100": 4,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bhuna Gosht",
+   "aliases": [
+    "bhuna",
+    "gosht bhuna",
+    "mutton bhuna"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍖",
+   "kcal100": 245,
+   "protein100": 20,
+   "carbs100": 3,
+   "fat100": 17.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Butter Chicken",
+   "aliases": [
+    "murgh makhani"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 190,
+   "protein100": 13,
+   "carbs100": 6,
+   "fat100": 12.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Tikka Masala",
+   "aliases": [
+    "tikka masala"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 175,
+   "protein100": 14,
+   "carbs100": 7,
+   "fat100": 10.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Jalfrezi",
+   "aliases": [
+    "jalfrezi"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 150,
+   "protein100": 13,
+   "carbs100": 6,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Shashlik",
+   "aliases": [
+    "shashlik"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 160,
+   "protein100": 14,
+   "carbs100": 7,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kofta Curry",
+   "aliases": [
+    "meatball curry",
+    "kofte"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 200,
+   "protein100": 11,
+   "carbs100": 7,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Keema",
+   "aliases": [
+    "qeema",
+    "qima",
+    "mince",
+    "keema masala"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 220,
+   "protein100": 17,
+   "carbs100": 4,
+   "fat100": 15.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Keema Matar",
+   "aliases": [
+    "qeema matar",
+    "mince peas"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 180,
+   "protein100": 13,
+   "carbs100": 7,
+   "fat100": 11.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Keema",
+   "aliases": [
+    "chicken qeema",
+    "chicken mince"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍛",
+   "kcal100": 170,
+   "protein100": 17,
+   "carbs100": 3,
+   "fat100": 10,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Paya",
+   "aliases": [
+    "siri paye",
+    "trotters curry",
+    "payay"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍲",
+   "kcal100": 140,
+   "protein100": 10,
+   "carbs100": 2,
+   "fat100": 10.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg Curry",
+   "aliases": [
+    "anda curry",
+    "anda masala",
+    "egg masala"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍳",
+   "kcal100": 150,
+   "protein100": 8,
+   "carbs100": 5,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fish Curry",
+   "aliases": [
+    "machli salan",
+    "machli curry"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🐟",
+   "kcal100": 130,
+   "protein100": 13,
+   "carbs100": 4,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fried Fish",
+   "aliases": [
+    "machli fry",
+    "fish fry",
+    "fish fried"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🐟",
+   "kcal100": 240,
+   "protein100": 18,
+   "carbs100": 10,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chargha",
+   "aliases": [
+    "steamed fried chicken",
+    "lahori chargha"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🍗",
+   "kcal100": 250,
+   "protein100": 22,
+   "carbs100": 2,
+   "fat100": 17,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Shahi Paneer",
+   "aliases": [
+    "paneer shahi"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🧀",
+   "kcal100": 230,
+   "protein100": 9,
+   "carbs100": 7,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Palak Paneer",
+   "aliases": [
+    "saag paneer",
+    "spinach paneer"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🥬",
+   "kcal100": 180,
+   "protein100": 9,
+   "carbs100": 6,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Paneer Karahi",
+   "aliases": [
+    "karahi paneer",
+    "kadhai paneer"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🧀",
+   "kcal100": 230,
+   "protein100": 11,
+   "carbs100": 6,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Matar Paneer",
+   "aliases": [
+    "peas paneer"
+   ],
+   "category": "Curries & Mains",
+   "emoji": "🧀",
+   "kcal100": 190,
+   "protein100": 9,
+   "carbs100": 9,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Mash",
+   "aliases": [
+    "maash daal",
+    "mash dal",
+    "urad daal"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 130,
+   "protein100": 8,
+   "carbs100": 16,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Masoor",
+   "aliases": [
+    "masoor daal",
+    "masoor dal",
+    "red lentils"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 115,
+   "protein100": 7,
+   "carbs100": 15,
+   "fat100": 3,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Chana",
+   "aliases": [
+    "chana daal",
+    "chana dal",
+    "bengal gram dal"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 140,
+   "protein100": 8,
+   "carbs100": 18,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Moong",
+   "aliases": [
+    "moong daal",
+    "moong dal",
+    "yellow daal"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 105,
+   "protein100": 7,
+   "carbs100": 14,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Makhani",
+   "aliases": [
+    "dal makhani",
+    "makhni daal"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 160,
+   "protein100": 7,
+   "carbs100": 15,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Tadka",
+   "aliases": [
+    "dal fry",
+    "tarka daal",
+    "dal tadka"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 125,
+   "protein100": 6.5,
+   "carbs100": 15,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mixed Daal",
+   "aliases": [
+    "mix daal",
+    "dal mix",
+    "panch daal"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 120,
+   "protein100": 7,
+   "carbs100": 15,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chana Masala",
+   "aliases": [
+    "chole",
+    "cholay",
+    "chholay",
+    "chickpea curry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🫘",
+   "kcal100": 150,
+   "protein100": 7,
+   "carbs100": 18,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lobia",
+   "aliases": [
+    "lobia masala",
+    "black eyed peas",
+    "rongi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🫘",
+   "kcal100": 125,
+   "protein100": 7,
+   "carbs100": 16,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rajma",
+   "aliases": [
+    "rajma masala",
+    "kidney beans curry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🫘",
+   "kcal100": 130,
+   "protein100": 7,
+   "carbs100": 17,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sabzi",
+   "aliases": [
+    "mixed vegetables",
+    "mix sabzi",
+    "vegetable curry",
+    "mix veg"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥗",
+   "kcal100": 90,
+   "protein100": 2,
+   "carbs100": 9,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Gobi",
+   "aliases": [
+    "potato cauliflower",
+    "aloo gobhi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥔",
+   "kcal100": 100,
+   "protein100": 2.5,
+   "carbs100": 11,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Matar",
+   "aliases": [
+    "potato peas curry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥔",
+   "kcal100": 110,
+   "protein100": 3.5,
+   "carbs100": 13,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Palak",
+   "aliases": [
+    "potato spinach"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 95,
+   "protein100": 3,
+   "carbs100": 10,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Ki Bhujia",
+   "aliases": [
+    "dry potato curry",
+    "aloo bhujia sabzi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥔",
+   "kcal100": 130,
+   "protein100": 2,
+   "carbs100": 18,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Palak",
+   "aliases": [
+    "saag",
+    "spinach curry",
+    "palak sabzi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 90,
+   "protein100": 4,
+   "carbs100": 6,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sarson Ka Saag",
+   "aliases": [
+    "mustard greens",
+    "sarson saag"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 95,
+   "protein100": 4,
+   "carbs100": 7,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bhindi",
+   "aliases": [
+    "okra",
+    "bhindi masala",
+    "lady finger",
+    "bhindi fry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 90,
+   "protein100": 2.5,
+   "carbs100": 8,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Karela",
+   "aliases": [
+    "bitter gourd",
+    "karela fry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 95,
+   "protein100": 2.5,
+   "carbs100": 7,
+   "fat100": 6.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tinda",
+   "aliases": [
+    "tinday",
+    "apple gourd"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 80,
+   "protein100": 2,
+   "carbs100": 8,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Baingan Bharta",
+   "aliases": [
+    "bharta",
+    "roasted eggplant",
+    "baingan"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🍆",
+   "kcal100": 100,
+   "protein100": 2,
+   "carbs100": 9,
+   "fat100": 6.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tori",
+   "aliases": [
+    "turai",
+    "ridge gourd",
+    "tori sabzi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 75,
+   "protein100": 2,
+   "carbs100": 7,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lauki",
+   "aliases": [
+    "ghiya",
+    "bottle gourd",
+    "kaddu",
+    "lauki sabzi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 65,
+   "protein100": 1.5,
+   "carbs100": 7,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gobi",
+   "aliases": [
+    "phool gobi",
+    "cauliflower curry"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥦",
+   "kcal100": 85,
+   "protein100": 3,
+   "carbs100": 7,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Shalgham",
+   "aliases": [
+    "turnip curry",
+    "shaljam"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥬",
+   "kcal100": 70,
+   "protein100": 1.5,
+   "carbs100": 8,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Arvi",
+   "aliases": [
+    "arbi",
+    "taro",
+    "colocasia"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥔",
+   "kcal100": 120,
+   "protein100": 2.5,
+   "carbs100": 17,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Matar",
+   "aliases": [
+    "peas curry",
+    "matar masala"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🟢",
+   "kcal100": 105,
+   "protein100": 5,
+   "carbs100": 11,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kadhi Pakora",
+   "aliases": [
+    "kadhi",
+    "kadi pakora"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 130,
+   "protein100": 4.5,
+   "carbs100": 11,
+   "fat100": 7.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Raita",
+   "aliases": [
+    "dahi raita",
+    "yogurt raita",
+    "kheera raita",
+    "cucumber raita"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 65,
+   "protein100": 3,
+   "carbs100": 5,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "bowl",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Boondi Raita",
+   "aliases": [
+    "boondi"
+   ],
+   "category": "Daal & Sabzi",
+   "emoji": "🥣",
+   "kcal100": 100,
+   "protein100": 3.5,
+   "carbs100": 9,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mixed Salad",
+   "aliases": [
+    "salad",
+    "kachumber",
+    "kachumbar"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥗",
+   "kcal100": 25,
+   "protein100": 1,
+   "carbs100": 5,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cucumber",
+   "aliases": [
+    "kheera",
+    "kheere"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥒",
+   "kcal100": 15,
+   "protein100": 0.7,
+   "carbs100": 3.6,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "cucumber",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Carrot",
+   "aliases": [
+    "gajar"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥕",
+   "kcal100": 41,
+   "protein100": 0.9,
+   "carbs100": 9.6,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "carrot",
+     "grams": 70,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tomato",
+   "aliases": [
+    "tamatar"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🍅",
+   "kcal100": 18,
+   "protein100": 0.9,
+   "carbs100": 3.9,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "tomato",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Onion",
+   "aliases": [
+    "pyaz",
+    "pyaaz",
+    "raw onion"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🧅",
+   "kcal100": 40,
+   "protein100": 1.1,
+   "carbs100": 9.3,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "onion",
+     "grams": 110,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Radish",
+   "aliases": [
+    "mooli"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥬",
+   "kcal100": 18,
+   "protein100": 0.6,
+   "carbs100": 3.4,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "radish",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Boiled Potato",
+   "aliases": [
+    "aloo ubla",
+    "boiled aloo",
+    "potato"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥔",
+   "kcal100": 87,
+   "protein100": 1.9,
+   "carbs100": 20,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "potato",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sweet Potato",
+   "aliases": [
+    "shakarkandi",
+    "shakarkand",
+    "boiled sweet potato"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🍠",
+   "kcal100": 90,
+   "protein100": 2,
+   "carbs100": 21,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "potato",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Broccoli",
+   "aliases": [
+    "boiled broccoli"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🥦",
+   "kcal100": 35,
+   "protein100": 2.4,
+   "carbs100": 7,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 90,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Corn on the Cob",
+   "aliases": [
+    "bhutta",
+    "butta",
+    "roasted corn",
+    "corn cob"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🌽",
+   "kcal100": 125,
+   "protein100": 3.4,
+   "carbs100": 27,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "cob",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sweet Corn",
+   "aliases": [
+    "masala corn",
+    "corn cup"
+   ],
+   "category": "Vegetables & Salad",
+   "emoji": "🌽",
+   "kcal100": 100,
+   "protein100": 3,
+   "carbs100": 20,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Seekh Kebab",
+   "aliases": [
+    "seekh kabab",
+    "beef seekh",
+    "mutton seekh",
+    "seekh"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 260,
+   "protein100": 18,
+   "carbs100": 4,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 240,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Seekh Kebab",
+   "aliases": [
+    "chicken seekh"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 190,
+   "protein100": 19,
+   "carbs100": 4,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chapli Kebab",
+   "aliases": [
+    "chapli kabab",
+    "chapli"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍔",
+   "kcal100": 290,
+   "protein100": 17,
+   "carbs100": 6,
+   "fat100": 22,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Shami Kebab",
+   "aliases": [
+    "shami kabab",
+    "shami"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🧆",
+   "kcal100": 195,
+   "protein100": 13,
+   "carbs100": 10,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Tikka",
+   "aliases": [
+    "tikka",
+    "chicken tikka boti",
+    "chicken boti"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍗",
+   "kcal100": 165,
+   "protein100": 23,
+   "carbs100": 2,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Malai Boti",
+   "aliases": [
+    "malai boti",
+    "malai tikka"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 190,
+   "protein100": 20,
+   "carbs100": 3,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 35,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 210,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef Boti",
+   "aliases": [
+    "bihari boti",
+    "boti kabab",
+    "mutton boti"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 230,
+   "protein100": 22,
+   "carbs100": 2,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 35,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 210,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Reshmi Kebab",
+   "aliases": [
+    "reshmi kabab",
+    "reshmi"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 200,
+   "protein100": 18,
+   "carbs100": 4,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bihari Kebab",
+   "aliases": [
+    "bihari kabab",
+    "bihari"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 220,
+   "protein100": 23,
+   "carbs100": 3,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gola Kebab",
+   "aliases": [
+    "gola kabab"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍢",
+   "kcal100": 240,
+   "protein100": 17,
+   "carbs100": 5,
+   "fat100": 17,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton Chops",
+   "aliases": [
+    "chaanp",
+    "champ",
+    "lamb chops",
+    "chops"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍖",
+   "kcal100": 290,
+   "protein100": 20,
+   "carbs100": 1,
+   "fat100": 23,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tandoori Chicken",
+   "aliases": [
+    "tandoori murgh",
+    "tandoori leg"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍗",
+   "kcal100": 180,
+   "protein100": 21,
+   "carbs100": 3,
+   "fat100": 9.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fish Tikka",
+   "aliases": [
+    "machli tikka"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🐟",
+   "kcal100": 160,
+   "protein100": 22,
+   "carbs100": 2,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kata Kat",
+   "aliases": [
+    "katakat",
+    "tawa fry"
+   ],
+   "category": "BBQ & Kebabs",
+   "emoji": "🍖",
+   "kcal100": 260,
+   "protein100": 19,
+   "carbs100": 3,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Halwa Puri",
+   "aliases": [
+    "halwa poori",
+    "halwa puri chana",
+    "puri halwa"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍽️",
+   "kcal100": 335,
+   "protein100": 5,
+   "carbs100": 45,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Puri",
+   "aliases": [
+    "aloo poori",
+    "puri aloo"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥔",
+   "kcal100": 297,
+   "protein100": 5,
+   "carbs100": 40,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg (Boiled)",
+   "aliases": [
+    "boiled egg",
+    "ubla anda",
+    "anda ubla",
+    "hard boiled egg"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥚",
+   "kcal100": 155,
+   "protein100": 13,
+   "carbs100": 1.1,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "egg",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg (Fried)",
+   "aliases": [
+    "fried egg",
+    "anda fry",
+    "sunny side up",
+    "half fry"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍳",
+   "kcal100": 192,
+   "protein100": 13.6,
+   "carbs100": 0.8,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "egg",
+     "grams": 46,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Omelette",
+   "aliases": [
+    "omelet",
+    "anda omelette",
+    "plain omelette"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍳",
+   "kcal100": 152,
+   "protein100": 10.5,
+   "carbs100": 1.5,
+   "fat100": 11.5,
+   "units": [
+    {
+     "label": "omelette",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Masala Omelette",
+   "aliases": [
+    "desi omelette",
+    "anda masala omelette"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍳",
+   "kcal100": 165,
+   "protein100": 10,
+   "carbs100": 3,
+   "fat100": 12.5,
+   "units": [
+    {
+     "label": "omelette",
+     "grams": 110,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Anda Bhurji",
+   "aliases": [
+    "egg bhurji",
+    "scrambled egg",
+    "anda ghotala"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍳",
+   "kcal100": 170,
+   "protein100": 10,
+   "carbs100": 3,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 130,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Bread Omelette",
+   "aliases": [
+    "egg bread",
+    "anda bread"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍞",
+   "kcal100": 219,
+   "protein100": 10,
+   "carbs100": 20,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "French Toast",
+   "aliases": [
+    "anda toast",
+    "bread toast egg"
+   ],
+   "category": "Breakfast",
+   "emoji": "🍞",
+   "kcal100": 227,
+   "protein100": 8,
+   "carbs100": 24,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 70,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pancake",
+   "aliases": [
+    "hotcake",
+    "hot cake"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥞",
+   "kcal100": 226,
+   "protein100": 6,
+   "carbs100": 28,
+   "fat100": 10,
+   "units": [
+    {
+     "label": "pancake",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cornflakes",
+   "aliases": [
+    "cereal",
+    "corn flakes"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥣",
+   "kcal100": 372,
+   "protein100": 7,
+   "carbs100": 84,
+   "fat100": 0.9,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Muesli",
+   "aliases": [
+    "granola"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥣",
+   "kcal100": 367,
+   "protein100": 10,
+   "carbs100": 66,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Oats",
+   "aliases": [
+    "daliya oats",
+    "oatmeal",
+    "porridge",
+    "cooked oats"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥣",
+   "kcal100": 71,
+   "protein100": 2.5,
+   "carbs100": 12,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rolled Oats (Dry)",
+   "aliases": [
+    "dry oats",
+    "raw oats"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥣",
+   "kcal100": 382,
+   "protein100": 13,
+   "carbs100": 68,
+   "fat100": 6.5,
+   "units": [
+    {
+     "label": "serving",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 80,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sweet Daliya",
+   "aliases": [
+    "meetha daliya",
+    "cracked wheat porridge"
+   ],
+   "category": "Breakfast",
+   "emoji": "🥣",
+   "kcal100": 110,
+   "protein100": 3,
+   "carbs100": 19,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Samosa",
+   "aliases": [
+    "aloo samosa",
+    "samosay",
+    "samosa aloo"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥟",
+   "kcal100": 261,
+   "protein100": 5,
+   "carbs100": 30,
+   "fat100": 13.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Samosa",
+   "aliases": [
+    "keema samosa",
+    "qeema samosa"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥟",
+   "kcal100": 270,
+   "protein100": 9,
+   "carbs100": 27,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pakora",
+   "aliases": [
+    "pakoray",
+    "pakoda",
+    "pakode",
+    "bhaji"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🧆",
+   "kcal100": 288,
+   "protein100": 8,
+   "carbs100": 28,
+   "fat100": 16,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "plate",
+     "grams": 120,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Pakora",
+   "aliases": [
+    "potato pakora",
+    "aloo pakoray"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥔",
+   "kcal100": 266,
+   "protein100": 5,
+   "carbs100": 30,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 25,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pyaaz Pakora",
+   "aliases": [
+    "onion pakora",
+    "onion bhaji",
+    "pyaz pakoray"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🧅",
+   "kcal100": 280,
+   "protein100": 6,
+   "carbs100": 28,
+   "fat100": 16,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Palak Pakora",
+   "aliases": [
+    "spinach pakora",
+    "palak pakoray"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥬",
+   "kcal100": 267,
+   "protein100": 8,
+   "carbs100": 25,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Pakora",
+   "aliases": [
+    "chicken pakoray"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍗",
+   "kcal100": 251,
+   "protein100": 15,
+   "carbs100": 14,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Spring Roll",
+   "aliases": [
+    "veg spring roll",
+    "chicken spring roll"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥟",
+   "kcal100": 231,
+   "protein100": 5,
+   "carbs100": 28,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kachori",
+   "aliases": [
+    "kachoori",
+    "daal kachori"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥟",
+   "kcal100": 351,
+   "protein100": 7,
+   "carbs100": 38,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 70,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Paratha Roll",
+   "aliases": [
+    "paratha roll",
+    "chicken roll",
+    "kabab roll",
+    "roll"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🌯",
+   "kcal100": 230,
+   "protein100": 11,
+   "carbs100": 24,
+   "fat100": 10,
+   "units": [
+    {
+     "label": "roll",
+     "grams": 220,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Seekh Kabab Roll",
+   "aliases": [
+    "beef roll",
+    "seekh roll"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🌯",
+   "kcal100": 248,
+   "protein100": 12,
+   "carbs100": 23,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "roll",
+     "grams": 220,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Shawarma",
+   "aliases": [
+    "shawarma",
+    "shwarma",
+    "shawarma roll"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🌯",
+   "kcal100": 217,
+   "protein100": 13,
+   "carbs100": 20,
+   "fat100": 9.5,
+   "units": [
+    {
+     "label": "shawarma",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Anda Shami Burger",
+   "aliases": [
+    "shami burger",
+    "bun kabab",
+    "bun kebab",
+    "desi burger"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍔",
+   "kcal100": 247,
+   "protein100": 10,
+   "carbs100": 27,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "burger",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Tikki",
+   "aliases": [
+    "tikki",
+    "aloo tikkis"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥔",
+   "kcal100": 184,
+   "protein100": 3,
+   "carbs100": 25,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Dahi Bhalla",
+   "aliases": [
+    "dahi baray",
+    "dahi bhallay",
+    "dahi bhalle",
+    "dahi bara"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥣",
+   "kcal100": 167,
+   "protein100": 6,
+   "carbs100": 20,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Papri Chaat",
+   "aliases": [
+    "papdi chaat",
+    "chaat papri"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥣",
+   "kcal100": 192,
+   "protein100": 5,
+   "carbs100": 24,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chana Chaat",
+   "aliases": [
+    "chickpea chaat",
+    "channa chaat"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🫘",
+   "kcal100": 140,
+   "protein100": 6,
+   "carbs100": 20,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Aloo Chaat",
+   "aliases": [
+    "potato chaat"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥔",
+   "kcal100": 120,
+   "protein100": 2,
+   "carbs100": 20,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gol Gappay",
+   "aliases": [
+    "golgappa",
+    "pani puri",
+    "puchka",
+    "gol gappe"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥣",
+   "kcal100": 161,
+   "protein100": 3,
+   "carbs100": 26,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "piece",
+     "grams": 25,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Roasted Chana",
+   "aliases": [
+    "bhuna chana",
+    "chana roasted",
+    "bhune chanay"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🫘",
+   "kcal100": 357,
+   "protein100": 20,
+   "carbs100": 58,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Boiled Chana",
+   "aliases": [
+    "ubalay chanay",
+    "boiled chickpeas"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🫘",
+   "kcal100": 167,
+   "protein100": 9,
+   "carbs100": 27,
+   "fat100": 2.6,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 160,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Nimko",
+   "aliases": [
+    "namkeen",
+    "mix namkeen",
+    "nimkin"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥜",
+   "kcal100": 506,
+   "protein100": 14,
+   "carbs100": 45,
+   "fat100": 30,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sev",
+   "aliases": [
+    "bhujia",
+    "besan sev",
+    "sev bhujia"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🥨",
+   "kcal100": 523,
+   "protein100": 15,
+   "carbs100": 45,
+   "fat100": 31.5,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Potato Chips",
+   "aliases": [
+    "chips",
+    "lays",
+    "crisps",
+    "wafers"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍟",
+   "kcal100": 542,
+   "protein100": 6,
+   "carbs100": 53,
+   "fat100": 34,
+   "units": [
+    {
+     "label": "packet",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "large packet",
+     "grams": 80,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cheese Puffs",
+   "aliases": [
+    "kurkure",
+    "cheetos"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🌽",
+   "kcal100": 531,
+   "protein100": 6,
+   "carbs100": 57,
+   "fat100": 31,
+   "units": [
+    {
+     "label": "packet",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Popcorn",
+   "aliases": [
+    "pop corn",
+    "plain popcorn"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍿",
+   "kcal100": 404,
+   "protein100": 13,
+   "carbs100": 78,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Biscuit",
+   "aliases": [
+    "biscuits",
+    "tea biscuit",
+    "marie biscuit",
+    "plain biscuit"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍪",
+   "kcal100": 445,
+   "protein100": 7,
+   "carbs100": 75,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "biscuit",
+     "grams": 8,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cream Biscuit",
+   "aliases": [
+    "oreo",
+    "cream biscuits",
+    "sandwich biscuit"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍪",
+   "kcal100": 480,
+   "protein100": 5,
+   "carbs100": 70,
+   "fat100": 20,
+   "units": [
+    {
+     "label": "biscuit",
+     "grams": 12,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chocolate Bar",
+   "aliases": [
+    "chocolate",
+    "dairy milk",
+    "milk chocolate"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍫",
+   "kcal100": 532,
+   "protein100": 7.5,
+   "carbs100": 58,
+   "fat100": 30,
+   "units": [
+    {
+     "label": "bar",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "piece",
+     "grams": 10,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Donut",
+   "aliases": [
+    "doughnut",
+    "donuts"
+   ],
+   "category": "Snacks & Street Food",
+   "emoji": "🍩",
+   "kcal100": 418,
+   "protein100": 5,
+   "carbs100": 50,
+   "fat100": 22,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kheer",
+   "aliases": [
+    "rice pudding",
+    "kheer chawal"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 150,
+   "protein100": 3.5,
+   "carbs100": 24,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "bowl",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gulab Jamun",
+   "aliases": [
+    "gulaab jamun",
+    "gulab jaman"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 319,
+   "protein100": 5,
+   "carbs100": 50,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 45,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Jalebi",
+   "aliases": [
+    "jilebi",
+    "jalaibi"
+   ],
+   "category": "Sweets",
+   "emoji": "🍥",
+   "kcal100": 389,
+   "protein100": 3,
+   "carbs100": 65,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Ras Malai",
+   "aliases": [
+    "rasmalai",
+    "ras malay"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 188,
+   "protein100": 6,
+   "carbs100": 22,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 70,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Barfi",
+   "aliases": [
+    "burfi",
+    "milk barfi",
+    "kaju barfi",
+    "barfy"
+   ],
+   "category": "Sweets",
+   "emoji": "🍬",
+   "kcal100": 400,
+   "protein100": 8,
+   "carbs100": 55,
+   "fat100": 16.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Besan Laddu",
+   "aliases": [
+    "laddu",
+    "laddoo",
+    "besan ladoo"
+   ],
+   "category": "Sweets",
+   "emoji": "🍡",
+   "kcal100": 421,
+   "protein100": 8,
+   "carbs100": 50,
+   "fat100": 21,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Motichoor Laddu",
+   "aliases": [
+    "motichoor",
+    "motichoor ladoo"
+   ],
+   "category": "Sweets",
+   "emoji": "🍡",
+   "kcal100": 406,
+   "protein100": 6,
+   "carbs100": 55,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gajar Halwa",
+   "aliases": [
+    "carrot halwa",
+    "gajrela",
+    "gajar ka halwa"
+   ],
+   "category": "Sweets",
+   "emoji": "🥕",
+   "kcal100": 172,
+   "protein100": 3,
+   "carbs100": 22,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Suji Halwa",
+   "aliases": [
+    "semolina halwa",
+    "sooji halwa",
+    "suji ka halwa"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 233,
+   "protein100": 3,
+   "carbs100": 35,
+   "fat100": 9,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sheer Khurma",
+   "aliases": [
+    "sheer khorma",
+    "seviyan",
+    "sheer korma"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 195,
+   "protein100": 5,
+   "carbs100": 28,
+   "fat100": 7,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Firni",
+   "aliases": [
+    "phirni",
+    "phirnee"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 138,
+   "protein100": 3.5,
+   "carbs100": 22,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rabri",
+   "aliases": [
+    "rabdi",
+    "rabri milk"
+   ],
+   "category": "Sweets",
+   "emoji": "🥛",
+   "kcal100": 223,
+   "protein100": 6,
+   "carbs100": 25,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kulfi",
+   "aliases": [
+    "malai kulfi",
+    "matka kulfi"
+   ],
+   "category": "Sweets",
+   "emoji": "🍦",
+   "kcal100": 190,
+   "protein100": 4.5,
+   "carbs100": 24,
+   "fat100": 8.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Falooda",
+   "aliases": [
+    "faluda",
+    "falooda kulfi"
+   ],
+   "category": "Sweets",
+   "emoji": "🍧",
+   "kcal100": 134,
+   "protein100": 2.5,
+   "carbs100": 23,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Ice Cream",
+   "aliases": [
+    "vanilla ice cream",
+    "icecream"
+   ],
+   "category": "Sweets",
+   "emoji": "🍨",
+   "kcal100": 209,
+   "protein100": 3.5,
+   "carbs100": 24,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "scoop",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 100,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Custard",
+   "aliases": [
+    "custard dessert",
+    "fruit custard"
+   ],
+   "category": "Sweets",
+   "emoji": "🍮",
+   "kcal100": 120,
+   "protein100": 3,
+   "carbs100": 19,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cake",
+   "aliases": [
+    "sponge cake",
+    "plain cake",
+    "cake slice"
+   ],
+   "category": "Sweets",
+   "emoji": "🍰",
+   "kcal100": 355,
+   "protein100": 5,
+   "carbs100": 50,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chocolate Cake",
+   "aliases": [
+    "choco cake"
+   ],
+   "category": "Sweets",
+   "emoji": "🍰",
+   "kcal100": 373,
+   "protein100": 5,
+   "carbs100": 50,
+   "fat100": 17,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 90,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Brownie",
+   "aliases": [
+    "brownies"
+   ],
+   "category": "Sweets",
+   "emoji": "🍫",
+   "kcal100": 409,
+   "protein100": 5,
+   "carbs100": 50,
+   "fat100": 21,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kalakand",
+   "aliases": [
+    "milk cake"
+   ],
+   "category": "Sweets",
+   "emoji": "🍬",
+   "kcal100": 342,
+   "protein100": 9,
+   "carbs100": 45,
+   "fat100": 14,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Peda",
+   "aliases": [
+    "pera",
+    "milk peda"
+   ],
+   "category": "Sweets",
+   "emoji": "🍬",
+   "kcal100": 395,
+   "protein100": 10,
+   "carbs100": 55,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 25,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Shahi Tukray",
+   "aliases": [
+    "shahi tukda",
+    "shahi tukray",
+    "double ka meetha"
+   ],
+   "category": "Sweets",
+   "emoji": "🍞",
+   "kcal100": 346,
+   "protein100": 6,
+   "carbs100": 40,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chikki",
+   "aliases": [
+    "peanut brittle",
+    "moongphali chikki"
+   ],
+   "category": "Sweets",
+   "emoji": "🍬",
+   "kcal100": 464,
+   "protein100": 11,
+   "carbs100": 60,
+   "fat100": 20,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Gur",
+   "aliases": [
+    "jaggery",
+    "gud",
+    "gurr"
+   ],
+   "category": "Sweets",
+   "emoji": "🍬",
+   "kcal100": 395,
+   "protein100": 0.4,
+   "carbs100": 98,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "tbsp",
+     "grams": 20,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chai with Milk and Sugar",
+   "aliases": [
+    "doodh patti",
+    "chai",
+    "tea with milk",
+    "milk tea",
+    "karak chai",
+    "doodh patti chai"
+   ],
+   "category": "Drinks",
+   "emoji": "🍵",
+   "kcal100": 51,
+   "protein100": 1.7,
+   "carbs100": 7.5,
+   "fat100": 1.6,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "mug",
+     "grams": 250,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chai (No Sugar)",
+   "aliases": [
+    "sada chai",
+    "milk tea no sugar",
+    "pheeki chai"
+   ],
+   "category": "Drinks",
+   "emoji": "🍵",
+   "kcal100": 33,
+   "protein100": 1.6,
+   "carbs100": 2.8,
+   "fat100": 1.7,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "mug",
+     "grams": 250,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Black Tea",
+   "aliases": [
+    "kali chai",
+    "sulemani chai",
+    "sada kali chai"
+   ],
+   "category": "Drinks",
+   "emoji": "🍵",
+   "kcal100": 1,
+   "protein100": 0,
+   "carbs100": 0.2,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Green Tea",
+   "aliases": [
+    "kehwa",
+    "qehwa",
+    "sabz chai"
+   ],
+   "category": "Drinks",
+   "emoji": "🍵",
+   "kcal100": 1,
+   "protein100": 0,
+   "carbs100": 0.2,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kashmiri Chai",
+   "aliases": [
+    "noon chai",
+    "pink tea",
+    "gulabi chai"
+   ],
+   "category": "Drinks",
+   "emoji": "🍵",
+   "kcal100": 74,
+   "protein100": 2.5,
+   "carbs100": 7,
+   "fat100": 4,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Coffee with Milk and Sugar",
+   "aliases": [
+    "coffee",
+    "milk coffee"
+   ],
+   "category": "Drinks",
+   "emoji": "☕",
+   "kcal100": 55,
+   "protein100": 1.8,
+   "carbs100": 7.5,
+   "fat100": 2,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Black Coffee",
+   "aliases": [
+    "plain coffee",
+    "americano"
+   ],
+   "category": "Drinks",
+   "emoji": "☕",
+   "kcal100": 2,
+   "protein100": 0.3,
+   "carbs100": 0,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lassi",
+   "aliases": [
+    "sweet lassi",
+    "meethi lassi",
+    "lassi meethi"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 91,
+   "protein100": 3,
+   "carbs100": 13.5,
+   "fat100": 2.8,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Namkeen Lassi",
+   "aliases": [
+    "salty lassi",
+    "salted lassi",
+    "lassi namkeen"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 53,
+   "protein100": 3,
+   "carbs100": 4.5,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mango Lassi",
+   "aliases": [
+    "aam lassi"
+   ],
+   "category": "Drinks",
+   "emoji": "🥭",
+   "kcal100": 111,
+   "protein100": 3,
+   "carbs100": 18,
+   "fat100": 3,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chaas",
+   "aliases": [
+    "buttermilk",
+    "chhaachh",
+    "lassi chaas"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 40,
+   "protein100": 2.5,
+   "carbs100": 4,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Milk",
+   "aliases": [
+    "doodh",
+    "full cream milk",
+    "whole milk",
+    "dhoodh"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 63,
+   "protein100": 3.2,
+   "carbs100": 4.8,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Low-Fat Milk",
+   "aliases": [
+    "skimmed milk",
+    "toned milk",
+    "low fat doodh"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 43,
+   "protein100": 3.4,
+   "carbs100": 5,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Haldi Doodh",
+   "aliases": [
+    "turmeric milk",
+    "golden milk"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 76,
+   "protein100": 3.2,
+   "carbs100": 8,
+   "fat100": 3.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Badam Doodh",
+   "aliases": [
+    "badam milk",
+    "almond milk desi"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 109,
+   "protein100": 4,
+   "carbs100": 12,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chocolate Milk",
+   "aliases": [
+    "choco milk"
+   ],
+   "category": "Drinks",
+   "emoji": "🥛",
+   "kcal100": 84,
+   "protein100": 3.2,
+   "carbs100": 11,
+   "fat100": 3,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Banana Shake",
+   "aliases": [
+    "banana milkshake",
+    "kela shake"
+   ],
+   "category": "Drinks",
+   "emoji": "🍌",
+   "kcal100": 92,
+   "protein100": 3,
+   "carbs100": 15,
+   "fat100": 2.2,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mango Shake",
+   "aliases": [
+    "mango milkshake",
+    "aam shake"
+   ],
+   "category": "Drinks",
+   "emoji": "🥭",
+   "kcal100": 101,
+   "protein100": 2.8,
+   "carbs100": 17,
+   "fat100": 2.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chocolate Milkshake",
+   "aliases": [
+    "milkshake",
+    "choco shake"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 110,
+   "protein100": 3,
+   "carbs100": 16,
+   "fat100": 3.8,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fruit Smoothie",
+   "aliases": [
+    "smoothie"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 67,
+   "protein100": 1,
+   "carbs100": 14,
+   "fat100": 0.8,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cola",
+   "aliases": [
+    "coke",
+    "pepsi",
+    "soft drink",
+    "cold drink",
+    "coca cola"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 42,
+   "protein100": 0,
+   "carbs100": 10.6,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "can",
+     "grams": 330,
+     "isDefault": false
+    },
+    {
+     "label": "bottle",
+     "grams": 500,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "7Up or Sprite",
+   "aliases": [
+    "sprite",
+    "seven up",
+    "fanta",
+    "mirinda",
+    "lemon soda"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 40,
+   "protein100": 0,
+   "carbs100": 10,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "can",
+     "grams": 330,
+     "isDefault": false
+    },
+    {
+     "label": "bottle",
+     "grams": 500,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Diet Cola",
+   "aliases": [
+    "zero cola",
+    "coke zero",
+    "diet coke"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 1,
+   "protein100": 0,
+   "carbs100": 0,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "can",
+     "grams": 330,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Energy Drink",
+   "aliases": [
+    "red bull",
+    "sting",
+    "power horse"
+   ],
+   "category": "Drinks",
+   "emoji": "⚡",
+   "kcal100": 44,
+   "protein100": 0,
+   "carbs100": 11,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "can",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Rooh Afza Sharbat",
+   "aliases": [
+    "roohafza",
+    "sharbat",
+    "rooh afza"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 40,
+   "protein100": 0,
+   "carbs100": 10,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lemonade",
+   "aliases": [
+    "nimbu pani meetha",
+    "shikanjvi",
+    "sweet lemon water"
+   ],
+   "category": "Drinks",
+   "emoji": "🍋",
+   "kcal100": 36,
+   "protein100": 0.1,
+   "carbs100": 9,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Nimbu Pani (Salted)",
+   "aliases": [
+    "salty lemon water",
+    "namkeen nimbu pani"
+   ],
+   "category": "Drinks",
+   "emoji": "🍋",
+   "kcal100": 8,
+   "protein100": 0.1,
+   "carbs100": 2,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sugarcane Juice",
+   "aliases": [
+    "ganna ras",
+    "ganne ka ras",
+    "roh"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 74,
+   "protein100": 0.2,
+   "carbs100": 18,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Orange Juice",
+   "aliases": [
+    "malta juice",
+    "fresh juice",
+    "kinnow juice"
+   ],
+   "category": "Drinks",
+   "emoji": "🍊",
+   "kcal100": 46,
+   "protein100": 0.7,
+   "carbs100": 10.4,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mango Juice",
+   "aliases": [
+    "packaged mango juice",
+    "slice",
+    "frooto"
+   ],
+   "category": "Drinks",
+   "emoji": "🥭",
+   "kcal100": 56,
+   "protein100": 0.2,
+   "carbs100": 13.5,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "box",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Apple Juice",
+   "aliases": [
+    "seb ka juice"
+   ],
+   "category": "Drinks",
+   "emoji": "🍎",
+   "kcal100": 47,
+   "protein100": 0.1,
+   "carbs100": 11.3,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pomegranate Juice",
+   "aliases": [
+    "anar juice"
+   ],
+   "category": "Drinks",
+   "emoji": "🍒",
+   "kcal100": 55,
+   "protein100": 0.2,
+   "carbs100": 13,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Coconut Water",
+   "aliases": [
+    "nariyal pani",
+    "dab",
+    "dabb"
+   ],
+   "category": "Drinks",
+   "emoji": "🥥",
+   "kcal100": 19,
+   "protein100": 0.7,
+   "carbs100": 3.7,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Jaljeera",
+   "aliases": [
+    "jal jeera",
+    "jaljira"
+   ],
+   "category": "Drinks",
+   "emoji": "🥤",
+   "kcal100": 26,
+   "protein100": 0.2,
+   "carbs100": 6,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Iced Tea",
+   "aliases": [
+    "lipton ice tea",
+    "packaged ice tea"
+   ],
+   "category": "Drinks",
+   "emoji": "🧋",
+   "kcal100": 30,
+   "protein100": 0,
+   "carbs100": 7.5,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "bottle",
+     "grams": 500,
+     "isDefault": true
+    },
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Water",
+   "aliases": [
+    "pani",
+    "mineral water"
+   ],
+   "category": "Drinks",
+   "emoji": "💧",
+   "kcal100": 0,
+   "protein100": 0,
+   "carbs100": 0,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Apple",
+   "aliases": [
+    "seb"
+   ],
+   "category": "Fruits",
+   "emoji": "🍎",
+   "kcal100": 52,
+   "protein100": 0.3,
+   "carbs100": 14,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "apple",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Banana",
+   "aliases": [
+    "kela"
+   ],
+   "category": "Fruits",
+   "emoji": "🍌",
+   "kcal100": 89,
+   "protein100": 1.1,
+   "carbs100": 23,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "banana",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mango",
+   "aliases": [
+    "aam",
+    "sindhri",
+    "chaunsa",
+    "anwar ratol"
+   ],
+   "category": "Fruits",
+   "emoji": "🥭",
+   "kcal100": 60,
+   "protein100": 0.8,
+   "carbs100": 15,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "mango",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 165,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Orange",
+   "aliases": [
+    "malta",
+    "kinnow",
+    "santra",
+    "mandarin"
+   ],
+   "category": "Fruits",
+   "emoji": "🍊",
+   "kcal100": 47,
+   "protein100": 0.9,
+   "carbs100": 12,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "orange",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Grapes",
+   "aliases": [
+    "angoor"
+   ],
+   "category": "Fruits",
+   "emoji": "🍇",
+   "kcal100": 69,
+   "protein100": 0.7,
+   "carbs100": 18,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 80,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Watermelon",
+   "aliases": [
+    "tarbooz"
+   ],
+   "category": "Fruits",
+   "emoji": "🍉",
+   "kcal100": 30,
+   "protein100": 0.6,
+   "carbs100": 7.6,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Melon",
+   "aliases": [
+    "kharbooza",
+    "cantaloupe",
+    "sarda"
+   ],
+   "category": "Fruits",
+   "emoji": "🍈",
+   "kcal100": 34,
+   "protein100": 0.8,
+   "carbs100": 8.2,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 160,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Guava",
+   "aliases": [
+    "amrood",
+    "amrud"
+   ],
+   "category": "Fruits",
+   "emoji": "🍐",
+   "kcal100": 68,
+   "protein100": 2.6,
+   "carbs100": 14,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "guava",
+     "grams": 130,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pomegranate",
+   "aliases": [
+    "anar",
+    "anaar"
+   ],
+   "category": "Fruits",
+   "emoji": "🍒",
+   "kcal100": 83,
+   "protein100": 1.7,
+   "carbs100": 17,
+   "fat100": 1.2,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 170,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Peach",
+   "aliases": [
+    "aaroo",
+    "aadu",
+    "aru"
+   ],
+   "category": "Fruits",
+   "emoji": "🍑",
+   "kcal100": 39,
+   "protein100": 0.9,
+   "carbs100": 9.5,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "peach",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Plum",
+   "aliases": [
+    "aloo bukhara",
+    "alucha"
+   ],
+   "category": "Fruits",
+   "emoji": "🍑",
+   "kcal100": 46,
+   "protein100": 0.7,
+   "carbs100": 11.4,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "plum",
+     "grams": 65,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Apricot",
+   "aliases": [
+    "khubani",
+    "zardalu"
+   ],
+   "category": "Fruits",
+   "emoji": "🍑",
+   "kcal100": 48,
+   "protein100": 1.4,
+   "carbs100": 11,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "apricot",
+     "grams": 35,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pear",
+   "aliases": [
+    "nashpati",
+    "nashpaati"
+   ],
+   "category": "Fruits",
+   "emoji": "🍐",
+   "kcal100": 57,
+   "protein100": 0.4,
+   "carbs100": 15,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "pear",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Lychee",
+   "aliases": [
+    "litchi",
+    "leechi"
+   ],
+   "category": "Fruits",
+   "emoji": "🍒",
+   "kcal100": 66,
+   "protein100": 0.8,
+   "carbs100": 16.5,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "lychee",
+     "grams": 10,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 190,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Strawberry",
+   "aliases": [
+    "strawberries"
+   ],
+   "category": "Fruits",
+   "emoji": "🍓",
+   "kcal100": 32,
+   "protein100": 0.7,
+   "carbs100": 7.7,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Papaya",
+   "aliases": [
+    "papita"
+   ],
+   "category": "Fruits",
+   "emoji": "🍈",
+   "kcal100": 43,
+   "protein100": 0.5,
+   "carbs100": 11,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pineapple",
+   "aliases": [
+    "ananas"
+   ],
+   "category": "Fruits",
+   "emoji": "🍍",
+   "kcal100": 50,
+   "protein100": 0.5,
+   "carbs100": 13,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 85,
+     "isDefault": true
+    },
+    {
+     "label": "cup",
+     "grams": 165,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Dates",
+   "aliases": [
+    "khajoor",
+    "khajur",
+    "aseel khajoor"
+   ],
+   "category": "Fruits",
+   "emoji": "🌴",
+   "kcal100": 282,
+   "protein100": 2.5,
+   "carbs100": 75,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "date",
+     "grams": 10,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fresh Fig",
+   "aliases": [
+    "anjeer fresh",
+    "fig"
+   ],
+   "category": "Fruits",
+   "emoji": "🍈",
+   "kcal100": 74,
+   "protein100": 0.8,
+   "carbs100": 19,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "fig",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Jamun",
+   "aliases": [
+    "jaman",
+    "black plum",
+    "jambul"
+   ],
+   "category": "Fruits",
+   "emoji": "🫐",
+   "kcal100": 60,
+   "protein100": 0.7,
+   "carbs100": 14,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chikoo",
+   "aliases": [
+    "chiku",
+    "sapota",
+    "sapodilla"
+   ],
+   "category": "Fruits",
+   "emoji": "🍈",
+   "kcal100": 83,
+   "protein100": 0.4,
+   "carbs100": 20,
+   "fat100": 1.1,
+   "units": [
+    {
+     "label": "fruit",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mulberry",
+   "aliases": [
+    "shahtoot",
+    "toot"
+   ],
+   "category": "Fruits",
+   "emoji": "🫐",
+   "kcal100": 43,
+   "protein100": 1.4,
+   "carbs100": 9.8,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cherry",
+   "aliases": [
+    "cherries"
+   ],
+   "category": "Fruits",
+   "emoji": "🍒",
+   "kcal100": 63,
+   "protein100": 1,
+   "carbs100": 16,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Blueberries",
+   "aliases": [
+    "blueberry"
+   ],
+   "category": "Fruits",
+   "emoji": "🫐",
+   "kcal100": 57,
+   "protein100": 0.7,
+   "carbs100": 14,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Kiwi",
+   "aliases": [
+    "kiwi fruit"
+   ],
+   "category": "Fruits",
+   "emoji": "🥝",
+   "kcal100": 61,
+   "protein100": 1.1,
+   "carbs100": 15,
+   "fat100": 0.5,
+   "units": [
+    {
+     "label": "kiwi",
+     "grams": 75,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Avocado",
+   "aliases": [
+    "avocado pear"
+   ],
+   "category": "Fruits",
+   "emoji": "🥑",
+   "kcal100": 160,
+   "protein100": 2,
+   "carbs100": 9,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "avocado",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Coconut (Fresh)",
+   "aliases": [
+    "nariyal",
+    "fresh coconut"
+   ],
+   "category": "Fruits",
+   "emoji": "🥥",
+   "kcal100": 354,
+   "protein100": 3.3,
+   "carbs100": 15,
+   "fat100": 33,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fruit Chaat",
+   "aliases": [
+    "fruit salad",
+    "mixed fruit chaat",
+    "phal chaat"
+   ],
+   "category": "Fruits",
+   "emoji": "🍎",
+   "kcal100": 75,
+   "protein100": 1,
+   "carbs100": 18,
+   "fat100": 0.4,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Dahi",
+   "aliases": [
+    "yogurt",
+    "curd",
+    "plain yogurt",
+    "dahi plain"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 61,
+   "protein100": 3.5,
+   "carbs100": 4.7,
+   "fat100": 3.3,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "bowl",
+     "grams": 200,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Greek Yogurt",
+   "aliases": [
+    "hung curd",
+    "hung yogurt",
+    "greek dahi"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 97,
+   "protein100": 9,
+   "carbs100": 4,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Low-Fat Yogurt",
+   "aliases": [
+    "low fat dahi",
+    "light yogurt"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 47,
+   "protein100": 4.5,
+   "carbs100": 5,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Paneer",
+   "aliases": [
+    "cottage cheese",
+    "paneer cube"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🧀",
+   "kcal100": 266,
+   "protein100": 18,
+   "carbs100": 3.5,
+   "fat100": 20,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cheddar Cheese",
+   "aliases": [
+    "cheese",
+    "cheddar"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🧀",
+   "kcal100": 402,
+   "protein100": 25,
+   "carbs100": 1.3,
+   "fat100": 33,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cheese Slice",
+   "aliases": [
+    "processed cheese",
+    "burger cheese"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🧀",
+   "kcal100": 303,
+   "protein100": 18,
+   "carbs100": 6,
+   "fat100": 23,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mozzarella",
+   "aliases": [
+    "pizza cheese",
+    "mozzarella cheese"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🧀",
+   "kcal100": 295,
+   "protein100": 22,
+   "carbs100": 2.2,
+   "fat100": 22,
+   "units": [
+    {
+     "label": "serving",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Malai",
+   "aliases": [
+    "fresh cream",
+    "cream",
+    "malai cream"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 335,
+   "protein100": 2,
+   "carbs100": 3,
+   "fat100": 35,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 15,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Condensed Milk",
+   "aliases": [
+    "milkmaid",
+    "milk maid"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 329,
+   "protein100": 8,
+   "carbs100": 54,
+   "fat100": 9,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Milk Powder",
+   "aliases": [
+    "dry milk",
+    "everyday",
+    "nido",
+    "powder milk"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥛",
+   "kcal100": 499,
+   "protein100": 26,
+   "carbs100": 38,
+   "fat100": 27,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 8,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg White",
+   "aliases": [
+    "anday ki safedi",
+    "egg whites",
+    "white of egg"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🥚",
+   "kcal100": 49,
+   "protein100": 11,
+   "carbs100": 0.7,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "white",
+     "grams": 33,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Poached Egg",
+   "aliases": [
+    "poach egg"
+   ],
+   "category": "Dairy & Eggs",
+   "emoji": "🍳",
+   "kcal100": 138,
+   "protein100": 12.5,
+   "carbs100": 0.7,
+   "fat100": 9.5,
+   "units": [
+    {
+     "label": "egg",
+     "grams": 50,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Breast (Grilled)",
+   "aliases": [
+    "grilled chicken",
+    "boneless chicken",
+    "chicken breast"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍗",
+   "kcal100": 156,
+   "protein100": 31,
+   "carbs100": 0,
+   "fat100": 3.6,
+   "units": [
+    {
+     "label": "breast",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "serving",
+     "grams": 100,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Breast (Boiled)",
+   "aliases": [
+    "boiled chicken",
+    "ubla chicken"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍗",
+   "kcal100": 145,
+   "protein100": 29,
+   "carbs100": 0,
+   "fat100": 3.2,
+   "units": [
+    {
+     "label": "breast",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "serving",
+     "grams": 100,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Thigh (Cooked)",
+   "aliases": [
+    "chicken leg boneless",
+    "boneless thigh"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍗",
+   "kcal100": 203,
+   "protein100": 26,
+   "carbs100": 0,
+   "fat100": 11,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Roast Chicken",
+   "aliases": [
+    "chicken roast",
+    "roasted chicken with skin"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍗",
+   "kcal100": 216,
+   "protein100": 26,
+   "carbs100": 0,
+   "fat100": 12.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Liver",
+   "aliases": [
+    "kaleji chicken",
+    "chicken kalegi"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍗",
+   "kcal100": 160,
+   "protein100": 24.5,
+   "carbs100": 0.9,
+   "fat100": 6.5,
+   "units": [
+    {
+     "label": "serving",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton Liver Fry",
+   "aliases": [
+    "kaleji",
+    "kalegi",
+    "liver masala",
+    "kaleji fry"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍖",
+   "kcal100": 189,
+   "protein100": 23,
+   "carbs100": 3,
+   "fat100": 9.5,
+   "units": [
+    {
+     "label": "pyali",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef (Cooked)",
+   "aliases": [
+    "gaye ka gosht",
+    "beef cooked",
+    "boiled beef"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🥩",
+   "kcal100": 239,
+   "protein100": 26,
+   "carbs100": 0,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mutton (Cooked)",
+   "aliases": [
+    "bakre ka gosht",
+    "lamb cooked",
+    "boiled mutton"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍖",
+   "kcal100": 289,
+   "protein100": 25,
+   "carbs100": 0,
+   "fat100": 21,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef Steak",
+   "aliases": [
+    "steak",
+    "grilled steak"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🥩",
+   "kcal100": 271,
+   "protein100": 25,
+   "carbs100": 0,
+   "fat100": 19,
+   "units": [
+    {
+     "label": "steak",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Grilled Fish",
+   "aliases": [
+    "machli grilled",
+    "baked fish"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🐟",
+   "kcal100": 128,
+   "protein100": 22,
+   "carbs100": 0,
+   "fat100": 4.5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Salmon",
+   "aliases": [
+    "baked salmon",
+    "salmon fillet"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🐟",
+   "kcal100": 196,
+   "protein100": 22,
+   "carbs100": 0,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "fillet",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Tuna (Canned)",
+   "aliases": [
+    "tuna fish",
+    "canned tuna",
+    "tuna in water"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🐟",
+   "kcal100": 113,
+   "protein100": 26,
+   "carbs100": 0,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "can",
+     "grams": 110,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Prawns",
+   "aliases": [
+    "shrimp",
+    "jhinga",
+    "jhinga fry"
+   ],
+   "category": "Meat & Fish",
+   "emoji": "🍤",
+   "kcal100": 99,
+   "protein100": 24,
+   "carbs100": 0.2,
+   "fat100": 0.3,
+   "units": [
+    {
+     "label": "serving",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "French Fries",
+   "aliases": [
+    "fries",
+    "chips fries",
+    "aloo fries"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍟",
+   "kcal100": 312,
+   "protein100": 3.4,
+   "carbs100": 41,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "medium",
+     "grams": 115,
+     "isDefault": true
+    },
+    {
+     "label": "small",
+     "grams": 75,
+     "isDefault": false
+    },
+    {
+     "label": "large",
+     "grams": 150,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Burger",
+   "aliases": [
+    "zinger burger",
+    "crispy chicken burger",
+    "zinger"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍔",
+   "kcal100": 260,
+   "protein100": 12,
+   "carbs100": 26,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "burger",
+     "grams": 180,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Beef Burger",
+   "aliases": [
+    "beef patty burger",
+    "burger"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍔",
+   "kcal100": 265,
+   "protein100": 13,
+   "carbs100": 24,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "burger",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Hot Dog",
+   "aliases": [
+    "hotdog",
+    "sausage bun"
+   ],
+   "category": "Fast Food",
+   "emoji": "🌭",
+   "kcal100": 289,
+   "protein100": 10,
+   "carbs100": 24,
+   "fat100": 17,
+   "units": [
+    {
+     "label": "hot dog",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Nuggets",
+   "aliases": [
+    "nuggets"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍗",
+   "kcal100": 290,
+   "protein100": 15,
+   "carbs100": 17,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 18,
+     "isDefault": true
+    },
+    {
+     "label": "box",
+     "grams": 100,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Strips",
+   "aliases": [
+    "tenders",
+    "chicken tenders"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍗",
+   "kcal100": 272,
+   "protein100": 17,
+   "carbs100": 15,
+   "fat100": 16,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Fried Chicken",
+   "aliases": [
+    "broast",
+    "fried chicken piece",
+    "kfc chicken",
+    "crispy chicken"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍗",
+   "kcal100": 282,
+   "protein100": 20,
+   "carbs100": 10,
+   "fat100": 18,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 120,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Hot Wings",
+   "aliases": [
+    "chicken wings",
+    "wings",
+    "hot n spicy wings"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍗",
+   "kcal100": 292,
+   "protein100": 20,
+   "carbs100": 8,
+   "fat100": 20,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cheese Pizza",
+   "aliases": [
+    "pizza",
+    "pizza slice"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍕",
+   "kcal100": 266,
+   "protein100": 11,
+   "carbs100": 33,
+   "fat100": 10,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Tikka Pizza",
+   "aliases": [
+    "tikka pizza",
+    "fajita pizza",
+    "chicken pizza"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍕",
+   "kcal100": 249,
+   "protein100": 12,
+   "carbs100": 30,
+   "fat100": 9,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 110,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Club Sandwich",
+   "aliases": [
+    "club"
+   ],
+   "category": "Fast Food",
+   "emoji": "🥪",
+   "kcal100": 235,
+   "protein100": 13,
+   "carbs100": 22,
+   "fat100": 10.5,
+   "units": [
+    {
+     "label": "sandwich",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Sandwich",
+   "aliases": [
+    "grilled chicken sandwich",
+    "sandwich"
+   ],
+   "category": "Fast Food",
+   "emoji": "🥪",
+   "kcal100": 220,
+   "protein100": 13,
+   "carbs100": 24,
+   "fat100": 8,
+   "units": [
+    {
+     "label": "sandwich",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Garlic Bread",
+   "aliases": [
+    "lehsan bread"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍞",
+   "kcal100": 347,
+   "protein100": 8,
+   "carbs100": 45,
+   "fat100": 15,
+   "units": [
+    {
+     "label": "slice",
+     "grams": 40,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Onion Rings",
+   "aliases": [
+    "fried onion rings"
+   ],
+   "category": "Fast Food",
+   "emoji": "🧅",
+   "kcal100": 329,
+   "protein100": 4,
+   "carbs100": 40,
+   "fat100": 17,
+   "units": [
+    {
+     "label": "serving",
+     "grams": 100,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pasta",
+   "aliases": [
+    "spaghetti",
+    "macaroni",
+    "plain pasta",
+    "boiled pasta"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍝",
+   "kcal100": 155,
+   "protein100": 5.8,
+   "carbs100": 31,
+   "fat100": 0.9,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Alfredo Pasta",
+   "aliases": [
+    "creamy pasta",
+    "white sauce pasta"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍝",
+   "kcal100": 180,
+   "protein100": 8,
+   "carbs100": 20,
+   "fat100": 7.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Chowmein",
+   "aliases": [
+    "chow mein",
+    "chowmein",
+    "noodles"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍜",
+   "kcal100": 165,
+   "protein100": 7,
+   "carbs100": 22,
+   "fat100": 5.5,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 300,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Manchurian",
+   "aliases": [
+    "manchurian",
+    "chicken manchurian dry"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍗",
+   "kcal100": 181,
+   "protein100": 12,
+   "carbs100": 13,
+   "fat100": 9,
+   "units": [
+    {
+     "label": "plate",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chicken Corn Soup",
+   "aliases": [
+    "corn soup",
+    "chinese soup"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍲",
+   "kcal100": 49,
+   "protein100": 3,
+   "carbs100": 7,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Hot and Sour Soup",
+   "aliases": [
+    "hot n sour soup",
+    "sour soup"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍲",
+   "kcal100": 41,
+   "protein100": 3,
+   "carbs100": 5,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Instant Noodles",
+   "aliases": [
+    "maggi",
+    "indomie",
+    "ramen",
+    "noodles packet"
+   ],
+   "category": "Fast Food",
+   "emoji": "🍜",
+   "kcal100": 121,
+   "protein100": 2.8,
+   "carbs100": 19,
+   "fat100": 3.8,
+   "units": [
+    {
+     "label": "packet",
+     "grams": 280,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Almonds",
+   "aliases": [
+    "badam",
+    "badaam"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 579,
+   "protein100": 21,
+   "carbs100": 22,
+   "fat100": 50,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 28,
+     "isDefault": true
+    },
+    {
+     "label": "piece",
+     "grams": 1.2,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Walnuts",
+   "aliases": [
+    "akhrot",
+    "akhroat"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 654,
+   "protein100": 15,
+   "carbs100": 14,
+   "fat100": 65,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 28,
+     "isDefault": true
+    },
+    {
+     "label": "piece",
+     "grams": 4,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cashews",
+   "aliases": [
+    "kaju"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 553,
+   "protein100": 18,
+   "carbs100": 30,
+   "fat100": 44,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 28,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pistachios",
+   "aliases": [
+    "pista",
+    "pistachio"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 560,
+   "protein100": 20,
+   "carbs100": 28,
+   "fat100": 45,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 28,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Peanuts",
+   "aliases": [
+    "moongphali",
+    "mungphali",
+    "roasted peanuts",
+    "peanut"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 585,
+   "protein100": 24,
+   "carbs100": 21,
+   "fat100": 50,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Raisins",
+   "aliases": [
+    "kishmish",
+    "munakka",
+    "sultanas"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🍇",
+   "kcal100": 299,
+   "protein100": 3,
+   "carbs100": 79,
+   "fat100": 0.5,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Dried Apricots",
+   "aliases": [
+    "khubani sukhi",
+    "sukhi khubani"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🍑",
+   "kcal100": 241,
+   "protein100": 3.4,
+   "carbs100": 57,
+   "fat100": 0.5,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Dried Fig",
+   "aliases": [
+    "sukha anjeer",
+    "anjeer"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🍈",
+   "kcal100": 249,
+   "protein100": 3.3,
+   "carbs100": 64,
+   "fat100": 0.9,
+   "units": [
+    {
+     "label": "fig",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chia Seeds",
+   "aliases": [
+    "chia"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🌱",
+   "kcal100": 486,
+   "protein100": 17,
+   "carbs100": 42,
+   "fat100": 31,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 12,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Flax Seeds",
+   "aliases": [
+    "alsi",
+    "flaxseed",
+    "linseed"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🌱",
+   "kcal100": 534,
+   "protein100": 18,
+   "carbs100": 29,
+   "fat100": 42,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 10,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sunflower Seeds",
+   "aliases": [
+    "surajmukhi beej"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🌻",
+   "kcal100": 584,
+   "protein100": 21,
+   "carbs100": 20,
+   "fat100": 51,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Pumpkin Seeds",
+   "aliases": [
+    "kaddu ke beej"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🎃",
+   "kcal100": 559,
+   "protein100": 30,
+   "carbs100": 11,
+   "fat100": 49,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Makhana",
+   "aliases": [
+    "fox nuts",
+    "phool makhana",
+    "lotus seeds"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🌱",
+   "kcal100": 348,
+   "protein100": 9.7,
+   "carbs100": 77,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "cup",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mixed Nuts",
+   "aliases": [
+    "mewa",
+    "mix dry fruit",
+    "trail mix"
+   ],
+   "category": "Nuts & Dry Fruits",
+   "emoji": "🥜",
+   "kcal100": 610,
+   "protein100": 18,
+   "carbs100": 22,
+   "fat100": 50,
+   "units": [
+    {
+     "label": "handful",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Whey Protein Powder",
+   "aliases": [
+    "whey",
+    "protein powder",
+    "protein scoop"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "💪",
+   "kcal100": 406,
+   "protein100": 80,
+   "carbs100": 8,
+   "fat100": 6,
+   "units": [
+    {
+     "label": "scoop",
+     "grams": 30,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Protein Bar",
+   "aliases": [
+    "gym bar",
+    "quest bar"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🍫",
+   "kcal100": 368,
+   "protein100": 30,
+   "carbs100": 35,
+   "fat100": 12,
+   "units": [
+    {
+     "label": "bar",
+     "grams": 60,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Banana Protein Shake",
+   "aliases": [
+    "protein shake",
+    "whey banana shake"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🥤",
+   "kcal100": 90,
+   "protein100": 7,
+   "carbs100": 12,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "glass",
+     "grams": 350,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Egg White Omelette",
+   "aliases": [
+    "egg whites omelette"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🍳",
+   "kcal100": 58,
+   "protein100": 10,
+   "carbs100": 1,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "omelette",
+     "grams": 150,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Quinoa",
+   "aliases": [
+    "cooked quinoa"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🌾",
+   "kcal100": 119,
+   "protein100": 4.4,
+   "carbs100": 21,
+   "fat100": 1.9,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 185,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chickpea Salad",
+   "aliases": [
+    "chana salad",
+    "protein salad"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🥗",
+   "kcal100": 131,
+   "protein100": 6,
+   "carbs100": 20,
+   "fat100": 3,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 200,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Daal Soup",
+   "aliases": [
+    "lentil soup",
+    "dal soup"
+   ],
+   "category": "Gym & Healthy",
+   "emoji": "🍲",
+   "kcal100": 61,
+   "protein100": 4,
+   "carbs100": 9,
+   "fat100": 1,
+   "units": [
+    {
+     "label": "bowl",
+     "grams": 250,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Cooking Oil",
+   "aliases": [
+    "oil",
+    "tel",
+    "vegetable oil",
+    "canola oil",
+    "sunflower oil"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🛢️",
+   "kcal100": 900,
+   "protein100": 0,
+   "carbs100": 0,
+   "fat100": 100,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 14,
+     "isDefault": true
+    },
+    {
+     "label": "tsp",
+     "grams": 5,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Desi Ghee",
+   "aliases": [
+    "ghee",
+    "clarified butter",
+    "ghi"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🧈",
+   "kcal100": 900,
+   "protein100": 0,
+   "carbs100": 0,
+   "fat100": 100,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 14,
+     "isDefault": true
+    },
+    {
+     "label": "tsp",
+     "grams": 5,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Butter",
+   "aliases": [
+    "makhan",
+    "makkhan",
+    "salted butter"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🧈",
+   "kcal100": 717,
+   "protein100": 0.9,
+   "carbs100": 0.1,
+   "fat100": 81,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 14,
+     "isDefault": true
+    },
+    {
+     "label": "tsp",
+     "grams": 5,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Sugar",
+   "aliases": [
+    "cheeni",
+    "chini",
+    "white sugar",
+    "sugar spoon"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🍬",
+   "kcal100": 387,
+   "protein100": 0,
+   "carbs100": 100,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "tsp",
+     "grams": 4,
+     "isDefault": true
+    },
+    {
+     "label": "tbsp",
+     "grams": 12,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Honey",
+   "aliases": [
+    "shahad",
+    "shehad"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🍯",
+   "kcal100": 304,
+   "protein100": 0.3,
+   "carbs100": 82,
+   "fat100": 0,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 21,
+     "isDefault": true
+    },
+    {
+     "label": "tsp",
+     "grams": 7,
+     "isDefault": false
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Jam",
+   "aliases": [
+    "fruit jam",
+    "jam spread"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🍓",
+   "kcal100": 250,
+   "protein100": 0.4,
+   "carbs100": 62,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Peanut Butter",
+   "aliases": [
+    "pb",
+    "peanut spread"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🥜",
+   "kcal100": 588,
+   "protein100": 25,
+   "carbs100": 20,
+   "fat100": 50,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 16,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Chocolate Spread",
+   "aliases": [
+    "nutella"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🍫",
+   "kcal100": 535,
+   "protein100": 6,
+   "carbs100": 58,
+   "fat100": 31,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 20,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mayonnaise",
+   "aliases": [
+    "mayo"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🫙",
+   "kcal100": 683,
+   "protein100": 1,
+   "carbs100": 1,
+   "fat100": 75,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 15,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Ketchup",
+   "aliases": [
+    "tomato ketchup",
+    "tomato sauce"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🍅",
+   "kcal100": 113,
+   "protein100": 1,
+   "carbs100": 27,
+   "fat100": 0.1,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 17,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Mint Chutney",
+   "aliases": [
+    "pudina chutney",
+    "green chutney",
+    "hari chutney"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🌿",
+   "kcal100": 41,
+   "protein100": 2,
+   "carbs100": 5,
+   "fat100": 1.5,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 15,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Imli Chutney",
+   "aliases": [
+    "tamarind chutney",
+    "meethi chutney"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🫙",
+   "kcal100": 156,
+   "protein100": 0.5,
+   "carbs100": 38,
+   "fat100": 0.2,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 15,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Achar",
+   "aliases": [
+    "pickle",
+    "achaar",
+    "mango pickle",
+    "mixed pickle"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🥒",
+   "kcal100": 155,
+   "protein100": 1.5,
+   "carbs100": 8,
+   "fat100": 13,
+   "units": [
+    {
+     "label": "tbsp",
+     "grams": 15,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Papad",
+   "aliases": [
+    "papadum",
+    "poppadom",
+    "papar"
+   ],
+   "category": "Extras & Condiments",
+   "emoji": "🫓",
+   "kcal100": 345,
+   "protein100": 20,
+   "carbs100": 55,
+   "fat100": 5,
+   "units": [
+    {
+     "label": "piece",
+     "grams": 10,
+     "isDefault": true
+    },
+    {
+     "label": "100 g",
+     "grams": 100,
+     "isDefault": false
+    }
+   ],
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,2288 @@
+{
+ "version": 2,
+ "note": "MET values are approximate (based on the Compendium of Physical Activities). Strength sets use an assumed time per set. verified=false until checked.",
+ "freeExercises": [
+  "Walking",
+  "Running"
+ ],
+ "exercises": [
+  {
+   "name": "Walking",
+   "aliases": [
+    "walk",
+    "stroll",
+    "chalna",
+    "outdoor walk",
+    "treadmill walk"
+   ],
+   "emoji": "🚶",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.5,
+   "isFree": true,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Slow 3.2 km/h",
+     "met": 2.8,
+     "isDefault": false,
+     "speedKmh": 3.2
+    },
+    {
+     "label": "Moderate 4.8 km/h",
+     "met": 3.5,
+     "isDefault": true,
+     "speedKmh": 4.8
+    },
+    {
+     "label": "Brisk 6.4 km/h",
+     "met": 5.0,
+     "isDefault": false,
+     "speedKmh": 6.4
+    },
+    {
+     "label": "Power walk 7.2 km/h",
+     "met": 6.5,
+     "isDefault": false,
+     "speedKmh": 7.2
+    }
+   ]
+  },
+  {
+   "name": "Running",
+   "aliases": [
+    "run",
+    "jogging",
+    "jog",
+    "daurna",
+    "outdoor run",
+    "treadmill run"
+   ],
+   "emoji": "🏃",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 9.8,
+   "isFree": true,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Jog 8 km/h",
+     "met": 8.3,
+     "isDefault": false,
+     "speedKmh": 8.0
+    },
+    {
+     "label": "Run 9.7 km/h",
+     "met": 9.8,
+     "isDefault": true,
+     "speedKmh": 9.7
+    },
+    {
+     "label": "Run 11.3 km/h",
+     "met": 11.0,
+     "isDefault": false,
+     "speedKmh": 11.3
+    },
+    {
+     "label": "Fast 12.9 km/h",
+     "met": 11.8,
+     "isDefault": false,
+     "speedKmh": 12.9
+    },
+    {
+     "label": "Very fast 14.5 km/h",
+     "met": 12.8,
+     "isDefault": false,
+     "speedKmh": 14.5
+    }
+   ]
+  },
+  {
+   "name": "Incline Walking",
+   "aliases": [
+    "treadmill incline",
+    "incline treadmill",
+    "hill walk"
+   ],
+   "emoji": "🚶",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Treadmill",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hiking",
+   "aliases": [
+    "trekking",
+    "trek",
+    "mountain trail",
+    "hill trek"
+   ],
+   "emoji": "🥾",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Stair Climbing",
+   "aliases": [
+    "stairs",
+    "stair master",
+    "stair climber",
+    "seedhiyan"
+   ],
+   "emoji": "🪜",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 6.5,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Slow pace",
+     "met": 4.0,
+     "isDefault": false
+    },
+    {
+     "label": "Brisk pace",
+     "met": 6.5,
+     "isDefault": true
+    },
+    {
+     "label": "Stair machine",
+     "met": 8.8,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Cycling",
+   "aliases": [
+    "bicycle",
+    "cycle",
+    "biking",
+    "outdoor cycling"
+   ],
+   "emoji": "🚴",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Bicycle",
+   "met": 6.8,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Leisure under 16 km/h",
+     "met": 4.0,
+     "isDefault": false,
+     "speedKmh": 14.0
+    },
+    {
+     "label": "Moderate 16-19 km/h",
+     "met": 6.8,
+     "isDefault": true,
+     "speedKmh": 17.5
+    },
+    {
+     "label": "Fast 19-22 km/h",
+     "met": 8.0,
+     "isDefault": false,
+     "speedKmh": 20.5
+    },
+    {
+     "label": "Racing 22+ km/h",
+     "met": 10.0,
+     "isDefault": false,
+     "speedKmh": 24.0
+    }
+   ]
+  },
+  {
+   "name": "Stationary Bike",
+   "aliases": [
+    "exercise bike",
+    "spin bike",
+    "spinning",
+    "indoor cycling"
+   ],
+   "emoji": "🚴",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Machine",
+   "met": 6.8,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Light",
+     "met": 3.5,
+     "isDefault": false
+    },
+    {
+     "label": "Moderate",
+     "met": 6.8,
+     "isDefault": true
+    },
+    {
+     "label": "Vigorous",
+     "met": 8.8,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Elliptical Trainer",
+   "aliases": [
+    "elliptical",
+    "cross trainer"
+   ],
+   "emoji": "🏃",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Rowing Machine",
+   "aliases": [
+    "rowing",
+    "erg",
+    "concept2"
+   ],
+   "emoji": "🚣",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Machine",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Light",
+     "met": 4.8,
+     "isDefault": false
+    },
+    {
+     "label": "Moderate",
+     "met": 7.0,
+     "isDefault": true
+    },
+    {
+     "label": "Vigorous",
+     "met": 8.5,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Swimming",
+   "aliases": [
+    "swim",
+    "laps",
+    "pool",
+    "tairaki"
+   ],
+   "emoji": "🏊",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Pool",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Easy",
+     "met": 5.8,
+     "isDefault": false
+    },
+    {
+     "label": "Moderate",
+     "met": 7.0,
+     "isDefault": true
+    },
+    {
+     "label": "Vigorous",
+     "met": 9.8,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Jump Rope",
+   "aliases": [
+    "skipping",
+    "skipping rope",
+    "rope jumping"
+   ],
+   "emoji": "🪢",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Rope",
+   "met": 11.8,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Slow",
+     "met": 8.8,
+     "isDefault": false
+    },
+    {
+     "label": "Moderate",
+     "met": 11.8,
+     "isDefault": true
+    },
+    {
+     "label": "Fast",
+     "met": 12.3,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Aerobics",
+   "aliases": [
+    "aerobic class",
+    "step aerobics"
+   ],
+   "emoji": "🤸",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Low impact",
+     "met": 5.0,
+     "isDefault": true
+    },
+    {
+     "label": "High impact",
+     "met": 7.3,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Zumba",
+   "aliases": [
+    "dance fitness"
+   ],
+   "emoji": "💃",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dancing",
+   "aliases": [
+    "dance",
+    "general dancing",
+    "bhangra",
+    "naach"
+   ],
+   "emoji": "💃",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 5.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Sprint Intervals",
+   "aliases": [
+    "sprints",
+    "hill sprints",
+    "interval running"
+   ],
+   "emoji": "⚡",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "None",
+   "met": 12.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Battle Ropes",
+   "aliases": [
+    "battle rope"
+   ],
+   "emoji": "🪢",
+   "muscleGroup": "Cardio",
+   "type": "duration",
+   "equipment": "Ropes",
+   "met": 10.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "HIIT Circuit",
+   "aliases": [
+    "hiit",
+    "high intensity interval training"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Tabata",
+   "aliases": [
+    "tabata workout"
+   ],
+   "emoji": "⏱️",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Circuit Training",
+   "aliases": [
+    "circuit",
+    "gym circuit"
+   ],
+   "emoji": "🔁",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "Mixed",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Bootcamp",
+   "aliases": [
+    "boot camp"
+   ],
+   "emoji": "🪖",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "CrossFit WOD",
+   "aliases": [
+    "crossfit",
+    "wod"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "Mixed",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Burpees",
+   "aliases": [
+    "burpee"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Jumping Jacks",
+   "aliases": [
+    "star jumps"
+   ],
+   "emoji": "🤸",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "High Knees",
+   "aliases": [
+    "running in place"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Mountain Climbers",
+   "aliases": [
+    "mountain climber"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Squat Jumps",
+   "aliases": [
+    "jump squats"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "None",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Box Jumps",
+   "aliases": [
+    "box jump"
+   ],
+   "emoji": "🔥",
+   "muscleGroup": "HIIT",
+   "type": "duration",
+   "equipment": "Box",
+   "met": 8.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Cricket",
+   "aliases": [
+    "batting",
+    "bowling",
+    "gully cricket",
+    "tape ball cricket"
+   ],
+   "emoji": "🏏",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Bat and ball",
+   "met": 4.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Football",
+   "aliases": [
+    "soccer",
+    "futsal"
+   ],
+   "emoji": "⚽",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Ball",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false,
+   "variants": [
+    {
+     "label": "Casual",
+     "met": 7.0,
+     "isDefault": true
+    },
+    {
+     "label": "Competitive match",
+     "met": 10.0,
+     "isDefault": false
+    }
+   ]
+  },
+  {
+   "name": "Badminton",
+   "aliases": [
+    "shuttle",
+    "shuttlecock"
+   ],
+   "emoji": "🏸",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Racket",
+   "met": 5.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Tennis",
+   "aliases": [
+    "lawn tennis"
+   ],
+   "emoji": "🎾",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Racket",
+   "met": 7.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Table Tennis",
+   "aliases": [
+    "ping pong"
+   ],
+   "emoji": "🏓",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Racket",
+   "met": 4.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Squash",
+   "aliases": [
+    "squash racket"
+   ],
+   "emoji": "🎾",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Racket",
+   "met": 7.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Basketball",
+   "aliases": [
+    "hoops"
+   ],
+   "emoji": "🏀",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Ball",
+   "met": 6.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Volleyball",
+   "aliases": [
+    "beach volleyball"
+   ],
+   "emoji": "🏐",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Ball",
+   "met": 4.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Field Hockey",
+   "aliases": [
+    "hockey"
+   ],
+   "emoji": "🏑",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Stick",
+   "met": 7.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Kabaddi",
+   "aliases": [
+    "desi kabaddi"
+   ],
+   "emoji": "🤼",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "None",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Kushti Wrestling",
+   "aliases": [
+    "wrestling",
+    "pehlwani",
+    "kushti"
+   ],
+   "emoji": "🤼",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "None",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Boxing Sparring",
+   "aliases": [
+    "boxing",
+    "sparring"
+   ],
+   "emoji": "🥊",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Gloves",
+   "met": 7.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Punching Bag",
+   "aliases": [
+    "heavy bag",
+    "bag work",
+    "shadow boxing"
+   ],
+   "emoji": "🥊",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Bag",
+   "met": 5.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Kickboxing",
+   "aliases": [
+    "muay thai",
+    "kick boxing"
+   ],
+   "emoji": "🥋",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "None",
+   "met": 10.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Martial Arts",
+   "aliases": [
+    "karate",
+    "taekwondo",
+    "judo",
+    "mma"
+   ],
+   "emoji": "🥋",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "None",
+   "met": 10.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Rock Climbing",
+   "aliases": [
+    "bouldering",
+    "wall climbing"
+   ],
+   "emoji": "🧗",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "None",
+   "met": 7.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Skating",
+   "aliases": [
+    "roller skating",
+    "inline skating",
+    "ice skating"
+   ],
+   "emoji": "⛸️",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Skates",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Rugby",
+   "aliases": [
+    "rugby union"
+   ],
+   "emoji": "🏉",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Ball",
+   "met": 8.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Frisbee",
+   "aliases": [
+    "ultimate frisbee",
+    "disc"
+   ],
+   "emoji": "🥏",
+   "muscleGroup": "Sports",
+   "type": "duration",
+   "equipment": "Disc",
+   "met": 3.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Barbell Bench Press",
+   "aliases": [
+    "bench press",
+    "flat bench"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Incline Barbell Bench Press",
+   "aliases": [
+    "incline bench",
+    "incline bench press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Decline Bench Press",
+   "aliases": [
+    "decline bench"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dumbbell Bench Press",
+   "aliases": [
+    "db bench",
+    "dumbbell press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Incline Dumbbell Press",
+   "aliases": [
+    "incline db press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Machine Chest Press",
+   "aliases": [
+    "chest press machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dumbbell Fly",
+   "aliases": [
+    "chest fly",
+    "db fly"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Cable Crossover",
+   "aliases": [
+    "cable fly",
+    "cable chest fly"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Pec Deck",
+   "aliases": [
+    "pec fly machine",
+    "butterfly machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Chest",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Push-Ups",
+   "aliases": [
+    "pushups",
+    "push up"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Chest",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Chest Dips",
+   "aliases": [
+    "dips chest"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Chest",
+   "type": "bodyweight",
+   "equipment": "Dip bars",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Deadlift",
+   "aliases": [
+    "conventional deadlift"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Barbell Row",
+   "aliases": [
+    "bent over row",
+    "bb row"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "T-Bar Row",
+   "aliases": [
+    "t bar row"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Rack Pull",
+   "aliases": [
+    "rack pulls"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Pull-Ups",
+   "aliases": [
+    "pullups",
+    "pull up"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Back",
+   "type": "bodyweight",
+   "equipment": "Pull-up bar",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Chin-Ups",
+   "aliases": [
+    "chinups",
+    "chin up"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Back",
+   "type": "bodyweight",
+   "equipment": "Pull-up bar",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Lat Pulldown",
+   "aliases": [
+    "lat pull down"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Seated Cable Row",
+   "aliases": [
+    "cable row",
+    "seated row"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "One-Arm Dumbbell Row",
+   "aliases": [
+    "dumbbell row",
+    "single arm row"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Dumbbell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Straight-Arm Pulldown",
+   "aliases": [
+    "straight arm pushdown"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Face Pull",
+   "aliases": [
+    "face pulls"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hyperextension",
+   "aliases": [
+    "back extension",
+    "hyper"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "bodyweight",
+   "equipment": "Bench",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Shrugs",
+   "aliases": [
+    "barbell shrug",
+    "dumbbell shrug",
+    "trap shrug"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Back",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Inverted Row",
+   "aliases": [
+    "body row",
+    "australian pull up"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Back",
+   "type": "bodyweight",
+   "equipment": "Bar",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Overhead Press",
+   "aliases": [
+    "barbell shoulder press",
+    "military press",
+    "ohp"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dumbbell Shoulder Press",
+   "aliases": [
+    "db shoulder press",
+    "seated dumbbell press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Arnold Press",
+   "aliases": [
+    "arnold dumbbell press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Machine Shoulder Press",
+   "aliases": [
+    "shoulder press machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Lateral Raise",
+   "aliases": [
+    "side raise",
+    "side lateral raise"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Front Raise",
+   "aliases": [
+    "front delt raise"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Rear Delt Fly",
+   "aliases": [
+    "reverse fly",
+    "rear fly"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Upright Row",
+   "aliases": [
+    "barbell upright row"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Shoulders",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Pike Push-Ups",
+   "aliases": [
+    "pike pushup"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Shoulders",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Barbell Curl",
+   "aliases": [
+    "bb curl",
+    "standing curl"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dumbbell Curl",
+   "aliases": [
+    "db curl",
+    "bicep curl",
+    "biceps curl"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hammer Curl",
+   "aliases": [
+    "hammer curls"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Preacher Curl",
+   "aliases": [
+    "preacher"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Concentration Curl",
+   "aliases": [
+    "concentration"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Dumbbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Cable Curl",
+   "aliases": [
+    "cable bicep curl"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Biceps",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Triceps Pushdown",
+   "aliases": [
+    "tricep pushdown",
+    "rope pushdown"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Triceps",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Skull Crushers",
+   "aliases": [
+    "lying triceps extension"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Triceps",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Overhead Triceps Extension",
+   "aliases": [
+    "overhead tricep"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Triceps",
+   "type": "strength",
+   "equipment": "Dumbbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Close-Grip Bench Press",
+   "aliases": [
+    "cgbp",
+    "close grip bench"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Triceps",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Triceps Dips",
+   "aliases": [
+    "tricep dips",
+    "parallel bar dips"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Triceps",
+   "type": "bodyweight",
+   "equipment": "Dip bars",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Bench Dips",
+   "aliases": [
+    "chair dips"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Triceps",
+   "type": "bodyweight",
+   "equipment": "Bench",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Triceps Kickback",
+   "aliases": [
+    "kickbacks"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Triceps",
+   "type": "strength",
+   "equipment": "Dumbbell",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Diamond Push-Ups",
+   "aliases": [
+    "close grip pushup"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Triceps",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Barbell Squat",
+   "aliases": [
+    "back squat",
+    "squat"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Front Squat",
+   "aliases": [
+    "barbell front squat"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Goblet Squat",
+   "aliases": [
+    "dumbbell squat"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Dumbbell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Leg Press",
+   "aliases": [
+    "machine leg press"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hack Squat",
+   "aliases": [
+    "hack squat machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Smith Machine Squat",
+   "aliases": [
+    "smith squat"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Lunges",
+   "aliases": [
+    "dumbbell lunges",
+    "static lunge"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Walking Lunges",
+   "aliases": [
+    "walking lunge"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Bulgarian Split Squat",
+   "aliases": [
+    "split squat"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Romanian Deadlift",
+   "aliases": [
+    "rdl",
+    "stiff leg deadlift"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Sumo Deadlift",
+   "aliases": [
+    "sumo"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Step-Ups",
+   "aliases": [
+    "box step ups"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Leg Extension",
+   "aliases": [
+    "quad extension"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Leg Curl",
+   "aliases": [
+    "hamstring curl",
+    "lying leg curl"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Standing Calf Raise",
+   "aliases": [
+    "calf raise",
+    "calves"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Seated Calf Raise",
+   "aliases": [
+    "seated calves"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Adductor Machine",
+   "aliases": [
+    "inner thigh machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Abductor Machine",
+   "aliases": [
+    "outer thigh machine"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Legs",
+   "type": "strength",
+   "equipment": "Machine",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Bodyweight Squat",
+   "aliases": [
+    "air squat"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Legs",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Wall Sit",
+   "aliases": [
+    "wall squat"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Legs",
+   "type": "timed",
+   "equipment": "None",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Baithak (Hindu Squats)",
+   "aliases": [
+    "baithak",
+    "hindu squat",
+    "desi squat"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Legs",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hip Thrust",
+   "aliases": [
+    "barbell hip thrust",
+    "glute thrust"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Glutes",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Glute Bridge",
+   "aliases": [
+    "hip bridge"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Glutes",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Cable Glute Kickback",
+   "aliases": [
+    "glute kickback"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Glutes",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Donkey Kicks",
+   "aliases": [
+    "donkey kick"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Glutes",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Good Morning",
+   "aliases": [
+    "barbell good morning"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Glutes",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Plank",
+   "aliases": [
+    "front plank"
+   ],
+   "emoji": "🧘",
+   "muscleGroup": "Core",
+   "type": "timed",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Side Plank",
+   "aliases": [
+    "side bridge"
+   ],
+   "emoji": "🧘",
+   "muscleGroup": "Core",
+   "type": "timed",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Crunches",
+   "aliases": [
+    "ab crunch"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Sit-Ups",
+   "aliases": [
+    "situps"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Leg Raises",
+   "aliases": [
+    "lying leg raise"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Hanging Leg Raise",
+   "aliases": [
+    "hanging knee raise"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "Pull-up bar",
+   "met": 4.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Russian Twist",
+   "aliases": [
+    "weighted twist"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "strength",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Bicycle Crunch",
+   "aliases": [
+    "bicycle crunches"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Flutter Kicks",
+   "aliases": [
+    "flutter kick"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "V-Ups",
+   "aliases": [
+    "v ups"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Cable Crunch",
+   "aliases": [
+    "kneeling cable crunch"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Core",
+   "type": "strength",
+   "equipment": "Cable",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Ab Wheel Rollout",
+   "aliases": [
+    "ab roller"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "Ab wheel",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dead Bug",
+   "aliases": [
+    "deadbug"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Core",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 3.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Kettlebell Swing",
+   "aliases": [
+    "kb swing"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "strength",
+   "equipment": "Kettlebell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Clean and Press",
+   "aliases": [
+    "barbell clean press",
+    "power clean"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "strength",
+   "equipment": "Barbell",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Thrusters",
+   "aliases": [
+    "dumbbell thruster"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "strength",
+   "equipment": "Dumbbells",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Farmers Walk",
+   "aliases": [
+    "farmers carry",
+    "farmer carry"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "timed",
+   "equipment": "Dumbbells",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Sled Push",
+   "aliases": [
+    "prowler push"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "timed",
+   "equipment": "Sled",
+   "met": 7.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Medicine Ball Slam",
+   "aliases": [
+    "ball slam"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "strength",
+   "equipment": "Medicine ball",
+   "met": 6.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Turkish Get-Up",
+   "aliases": [
+    "tgu"
+   ],
+   "emoji": "🏋️",
+   "muscleGroup": "Full Body",
+   "type": "strength",
+   "equipment": "Kettlebell",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Dand (Hindu Push-Ups)",
+   "aliases": [
+    "dand",
+    "hindu pushup",
+    "desi pushup"
+   ],
+   "emoji": "💪",
+   "muscleGroup": "Full Body",
+   "type": "bodyweight",
+   "equipment": "None",
+   "met": 5.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Yoga",
+   "aliases": [
+    "hatha yoga",
+    "yoga asanas"
+   ],
+   "emoji": "🧘",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 2.5,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Power Yoga",
+   "aliases": [
+    "vinyasa",
+    "ashtanga"
+   ],
+   "emoji": "🧘",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 4.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Surya Namaskar",
+   "aliases": [
+    "sun salutation",
+    "suryanamaskar"
+   ],
+   "emoji": "🌅",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Pilates",
+   "aliases": [
+    "mat pilates"
+   ],
+   "emoji": "🤸",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Stretching",
+   "aliases": [
+    "flexibility",
+    "cool down",
+    "warm up"
+   ],
+   "emoji": "🙆",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 2.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Foam Rolling",
+   "aliases": [
+    "foam roller",
+    "self massage"
+   ],
+   "emoji": "🧘",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "Foam roller",
+   "met": 2.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Tai Chi",
+   "aliases": [
+    "taichi"
+   ],
+   "emoji": "🥋",
+   "muscleGroup": "Yoga & Mobility",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.0,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Household Cleaning",
+   "aliases": [
+    "ghar ki safai",
+    "sweeping",
+    "mopping"
+   ],
+   "emoji": "🧹",
+   "muscleGroup": "Daily Activity",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.3,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Gardening",
+   "aliases": [
+    "bagbani",
+    "yard work"
+   ],
+   "emoji": "🌱",
+   "muscleGroup": "Daily Activity",
+   "type": "duration",
+   "equipment": "None",
+   "met": 3.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Moving and Carrying",
+   "aliases": [
+    "carrying loads",
+    "shifting furniture",
+    "moving boxes"
+   ],
+   "emoji": "📦",
+   "muscleGroup": "Daily Activity",
+   "type": "duration",
+   "equipment": "None",
+   "met": 5.8,
+   "isFree": false,
+   "verified": false
+  },
+  {
+   "name": "Playing with Kids",
+   "aliases": [
+    "active play",
+    "kids play"
+   ],
+   "emoji": "🧒",
+   "muscleGroup": "Daily Activity",
+   "type": "duration",
+   "equipment": "None",
+   "met": 4.0,
+   "isFree": false,
+   "verified": false
+  }
+ ]
+}
