@@ -1,10 +1,10 @@
 # Bite: YouTube demo video script (about 4 minutes)
 
-Record the phone screen (Android: Quick Settings → Screen record, with microphone on). Upload to YouTube as **Unlisted**, title: "Bite – Pakistani Calorie & Gym Tracker | SCD Lab Midterm | [Your name] [Reg No]". Open the link in a private/incognito window to check it plays.
+Record the phone screen (Android: Quick Settings → Screen record, with microphone on). Upload to YouTube as **Unlisted**, title: "Bite – Pakistani Calorie & Gym Tracker | SCD Lab Midterm | Ayesha Noor FA23-BSE-025". Open the link in a private/incognito window to check it plays.
 
 | Time | Show on screen | Say |
 |---|---|---|
-| 0:00–0:20 | Your face or the title slide | "Assalam o Alaikum, I am [name], [reg no]. This is Bite, an offline calorie, macro and gym tracker built for Pakistani food." |
+| 0:00–0:20 | Your face or the title slide | "Assalam o Alaikum, I am Ayesha Noor, FA23-BSE-025. This is Bite, an offline calorie, macro and gym tracker built for Pakistani food." |
 | 0:20–0:45 | Problem slide | "Global apps count food in grams or cups. We eat a roti, a pyali of daal, a karchi of salan. They also miss desi dishes, need internet, and show ads." |
 | 0:45–1:15 | Sign up → onboarding wheels → targets | "I sign up locally, enter age, height, weight, activity and goal. Bite calculates my calories with the Mifflin-St Jeor formula." |
 | 1:15–2:15 | Food tab: search "chapati" → Roti, 2 roti → Add. Then Daal Chawal, 1 plate | "Typing chapati finds roti. I pick 2 roti. Then one plate of daal chawal. The calories update live." |
